@@ -26,6 +26,7 @@ for ID in deputadoID:
     dados.extend(dadosAbertos['dados'])
 
     if 'next' not in links:
+      print('=====')
       break
 
 with open('deputadoDespesas.json', 'a') as out:
