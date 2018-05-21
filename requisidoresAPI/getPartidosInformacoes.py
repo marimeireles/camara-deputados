@@ -1,12 +1,12 @@
 import requests
 import json
 
-deputadoID = json.load(open('deputadoID.json'))
+partidoID = json.load(open('partidos.json'))
 
 dados = []
 
-for ID in deputadoID:
-  r = requests.get('https://dadosabertos.camara.leg.br/api/v2/deputados/{}/despesas?ano=2017&ordem=ASC&ordenarPor=nomeFornecedor'.format(ID['id']))
+for ID in partidoID:
+  r = requests.get('https://dadosabertos.camara.leg.br/api/v2/partidos/{}'.format(ID['id']))
   dadosAbertos = r.json()
   links = dadosAbertos['links']
   links = {item['rel']: item['href'] for item in links}
@@ -14,7 +14,7 @@ for ID in deputadoID:
   dados.extend(dadosAbertos['dados'])
 
   for dado in dados:
-    dado['idDeputado'] = ID['id']
+    dado['idPartido'] = ID['id']
 
   while 'next' in links:
     r = requests.get(links['next'])
@@ -29,5 +29,5 @@ for ID in deputadoID:
       print('=====')
       break
 
-with open('deputadoDespesas.json', 'a') as out:
+with open('partidosInformacoes.json', 'w') as out:
   out.write(json.dumps(dados))
