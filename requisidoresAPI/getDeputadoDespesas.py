@@ -12,6 +12,7 @@ for ID in deputadoID:
   links = {item['rel']: item['href'] for item in links}
 
   dados.extend(dadosAbertos['dados'])
+  print(dados)
 
   for dado in dados:
     dado['idDeputado'] = ID['id']
