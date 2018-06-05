@@ -1,514 +1,514 @@
-﻿"id","uri","nome","siglaPartido","uriPartido","siglaUf","idLegislatura","urlFoto"
-"178957","https://dadosabertos.camara.leg.br/api/v2/deputados/178957","ABEL MESQUITA JR.","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RR","55","http://www.camara.leg.br/internet/deputado/bandep/178957.jpg"
-"178864","https://dadosabertos.camara.leg.br/api/v2/deputados/178864","ADAIL CARNEIRO","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","CE","55","http://www.camara.leg.br/internet/deputado/bandep/178864.jpg"
-"178914","https://dadosabertos.camara.leg.br/api/v2/deputados/178914","ADALBERTO CAVALCANTI","AVANTE","https://dadosabertos.camara.leg.br/api/v2/partidos/36898","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178914.jpg"
-"178968","https://dadosabertos.camara.leg.br/api/v2/deputados/178968","ADELSON BARRETO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","SE","55","http://www.camara.leg.br/internet/deputado/bandep/178968.jpg"
-"178903","https://dadosabertos.camara.leg.br/api/v2/deputados/178903","ADILTON SACHETTI","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","MT","55","http://www.camara.leg.br/internet/deputado/bandep/178903.jpg"
-"141372","https://dadosabertos.camara.leg.br/api/v2/deputados/141372","AELTON FREITAS","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141372.jpg"
-"160508","https://dadosabertos.camara.leg.br/api/v2/deputados/160508","AFONSO FLORENCE","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","BA","55","http://www.camara.leg.br/internet/deputado/bandep/160508.jpg"
-"136811","https://dadosabertos.camara.leg.br/api/v2/deputados/136811","AFONSO HAMM","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RS","55","http://www.camara.leg.br/internet/deputado/bandep/136811.jpg"
-"178835","https://dadosabertos.camara.leg.br/api/v2/deputados/178835","AFONSO MOTTA","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","RS","55","http://www.camara.leg.br/internet/deputado/bandep/178835.jpg"
-"160527","https://dadosabertos.camara.leg.br/api/v2/deputados/160527","AGUINALDO RIBEIRO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","PB","55","http://www.camara.leg.br/internet/deputado/bandep/160527.jpg"
-"178836","https://dadosabertos.camara.leg.br/api/v2/deputados/178836","ALAN RICK","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","AC","55","http://www.camara.leg.br/internet/deputado/bandep/178836.jpg"
-"73579","https://dadosabertos.camara.leg.br/api/v2/deputados/73579","ALBERTO FRAGA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","DF","55","http://www.camara.leg.br/internet/deputado/bandep/73579.jpg"
-"160559","https://dadosabertos.camara.leg.br/api/v2/deputados/160559","ALCEU MOREIRA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RS","55","http://www.camara.leg.br/internet/deputado/bandep/160559.jpg"
-"160511","https://dadosabertos.camara.leg.br/api/v2/deputados/160511","ALESSANDRO MOLON","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/160511.jpg"
-"73458","https://dadosabertos.camara.leg.br/api/v2/deputados/73458","ALEX CANZIANI","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","PR","55","http://www.camara.leg.br/internet/deputado/bandep/73458.jpg"
-"178972","https://dadosabertos.camara.leg.br/api/v2/deputados/178972","ALEX MANENTE","PPS","https://dadosabertos.camara.leg.br/api/v2/partidos/36813","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178972.jpg"
-"160545","https://dadosabertos.camara.leg.br/api/v2/deputados/160545","ALEXANDRE LEITE","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160545.jpg"
-"178833","https://dadosabertos.camara.leg.br/api/v2/deputados/178833","ALEXANDRE SERFIOTIS","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178833.jpg"
-"178936","https://dadosabertos.camara.leg.br/api/v2/deputados/178936","ALEXANDRE VALLE","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178936.jpg"
-"141454","https://dadosabertos.camara.leg.br/api/v2/deputados/141454","ALFREDO KAEFER","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","PR","55","http://www.camara.leg.br/internet/deputado/bandep/141454.jpg"
-"178846","https://dadosabertos.camara.leg.br/api/v2/deputados/178846","ALFREDO NASCIMENTO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","AM","55","http://www.camara.leg.br/internet/deputado/bandep/178846.jpg"
-"74057","https://dadosabertos.camara.leg.br/api/v2/deputados/74057","ALICE PORTUGAL","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74057.jpg"
-"178927","https://dadosabertos.camara.leg.br/api/v2/deputados/178927","ALIEL MACHADO","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PR","55","http://www.camara.leg.br/internet/deputado/bandep/178927.jpg"
-"178937","https://dadosabertos.camara.leg.br/api/v2/deputados/178937","ALTINEU CÔRTES","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178937.jpg"
-"178881","https://dadosabertos.camara.leg.br/api/v2/deputados/178881","ALUISIO MENDES","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","MA","55","http://www.camara.leg.br/internet/deputado/bandep/178881.jpg"
-"178973","https://dadosabertos.camara.leg.br/api/v2/deputados/178973","ANA PERUGINI","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178973.jpg"
-"178831","https://dadosabertos.camara.leg.br/api/v2/deputados/178831","ANDRÉ ABDON","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","AP","55","http://www.camara.leg.br/internet/deputado/bandep/178831.jpg"
-"195143","https://dadosabertos.camara.leg.br/api/v2/deputados/195143","ANDRÉ AMARAL","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","PB","55","http://www.camara.leg.br/internet/deputado/bandep/195143.jpg"
-"74471","https://dadosabertos.camara.leg.br/api/v2/deputados/74471","ANDRÉ DE PAULA","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","PE","55","http://www.camara.leg.br/internet/deputado/bandep/74471.jpg"
-"133439","https://dadosabertos.camara.leg.br/api/v2/deputados/133439","ANDRÉ FIGUEIREDO","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","CE","55","http://www.camara.leg.br/internet/deputado/bandep/133439.jpg"
-"178882","https://dadosabertos.camara.leg.br/api/v2/deputados/178882","ANDRÉ FUFUCA","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","MA","55","http://www.camara.leg.br/internet/deputado/bandep/178882.jpg"
-"160543","https://dadosabertos.camara.leg.br/api/v2/deputados/160543","ANDRE MOURA","PSC","https://dadosabertos.camara.leg.br/api/v2/partidos/36833","SE","55","http://www.camara.leg.br/internet/deputado/bandep/160543.jpg"
-"178974","https://dadosabertos.camara.leg.br/api/v2/deputados/178974","ANDRES SANCHEZ","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178974.jpg"
-"178837","https://dadosabertos.camara.leg.br/api/v2/deputados/178837","ANGELIM","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","AC","55","http://www.camara.leg.br/internet/deputado/bandep/178837.jpg"
-"74212","https://dadosabertos.camara.leg.br/api/v2/deputados/74212","ANÍBAL GOMES","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","CE","55","http://www.camara.leg.br/internet/deputado/bandep/74212.jpg"
-"74213","https://dadosabertos.camara.leg.br/api/v2/deputados/74213","ANTONIO BALHMANN","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","CE","55","http://www.camara.leg.br/internet/deputado/bandep/74213.jpg"
-"160553","https://dadosabertos.camara.leg.br/api/v2/deputados/160553","ANTONIO BRITO","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","BA","55","http://www.camara.leg.br/internet/deputado/bandep/160553.jpg"
-"141383","https://dadosabertos.camara.leg.br/api/v2/deputados/141383","ANTONIO BULHÕES","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","SP","55","http://www.camara.leg.br/internet/deputado/bandep/141383.jpg"
-"73584","https://dadosabertos.camara.leg.br/api/v2/deputados/73584","ANTONIO CARLOS MENDES THAME","PV","https://dadosabertos.camara.leg.br/api/v2/partidos/36851","SP","55","http://www.camara.leg.br/internet/deputado/bandep/73584.jpg"
-"160530","https://dadosabertos.camara.leg.br/api/v2/deputados/160530","ANTONIO IMBASSAHY","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","BA","55","http://www.camara.leg.br/internet/deputado/bandep/160530.jpg"
-"178950","https://dadosabertos.camara.leg.br/api/v2/deputados/178950","ANTÔNIO JÁCOME","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","RN","55","http://www.camara.leg.br/internet/deputado/bandep/178950.jpg"
-"73433","https://dadosabertos.camara.leg.br/api/v2/deputados/73433","ARLINDO CHINAGLIA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/73433.jpg"
-"73434","https://dadosabertos.camara.leg.br/api/v2/deputados/73434","ARNALDO FARIA DE SÁ","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","SP","55","http://www.camara.leg.br/internet/deputado/bandep/73434.jpg"
-"141391","https://dadosabertos.camara.leg.br/api/v2/deputados/141391","ARNALDO JARDIM","PPS","https://dadosabertos.camara.leg.br/api/v2/partidos/36813","SP","55","http://www.camara.leg.br/internet/deputado/bandep/141391.jpg"
-"160602","https://dadosabertos.camara.leg.br/api/v2/deputados/160602","ARNALDO JORDY","PPS","https://dadosabertos.camara.leg.br/api/v2/partidos/36813","PA","55","http://www.camara.leg.br/internet/deputado/bandep/160602.jpg"
-"74833","https://dadosabertos.camara.leg.br/api/v2/deputados/74833","AROLDE DE OLIVEIRA","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74833.jpg"
-"160541","https://dadosabertos.camara.leg.br/api/v2/deputados/160541","ARTHUR LIRA","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","AL","55","http://www.camara.leg.br/internet/deputado/bandep/160541.jpg"
-"160600","https://dadosabertos.camara.leg.br/api/v2/deputados/160600","ARTHUR OLIVEIRA MAIA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","BA","55","http://www.camara.leg.br/internet/deputado/bandep/160600.jpg"
-"178847","https://dadosabertos.camara.leg.br/api/v2/deputados/178847","ARTHUR VIRGÍLIO BISNETO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","AM","55","http://www.camara.leg.br/internet/deputado/bandep/178847.jpg"
-"159237","https://dadosabertos.camara.leg.br/api/v2/deputados/159237","ASSIS CARVALHO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","PI","55","http://www.camara.leg.br/internet/deputado/bandep/159237.jpg"
-"74378","https://dadosabertos.camara.leg.br/api/v2/deputados/74378","ASSIS DO COUTO","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","PR","55","http://www.camara.leg.br/internet/deputado/bandep/74378.jpg"
-"74090","https://dadosabertos.camara.leg.br/api/v2/deputados/74090","ÁTILA LINS","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","AM","55","http://www.camara.leg.br/internet/deputado/bandep/74090.jpg"
-"74459","https://dadosabertos.camara.leg.br/api/v2/deputados/74459","ÁTILA LIRA","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PI","55","http://www.camara.leg.br/internet/deputado/bandep/74459.jpg"
-"73655","https://dadosabertos.camara.leg.br/api/v2/deputados/73655","AUGUSTO CARVALHO","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","DF","55","http://www.camara.leg.br/internet/deputado/bandep/73655.jpg"
-"160665","https://dadosabertos.camara.leg.br/api/v2/deputados/160665","AUGUSTO COUTINHO ","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","PE","55","http://www.camara.leg.br/internet/deputado/bandep/160665.jpg"
-"160512","https://dadosabertos.camara.leg.br/api/v2/deputados/160512","AUREO","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/160512.jpg"
-"69871","https://dadosabertos.camara.leg.br/api/v2/deputados/69871","BACELAR","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","BA","55","http://www.camara.leg.br/internet/deputado/bandep/69871.jpg"
-"178975","https://dadosabertos.camara.leg.br/api/v2/deputados/178975","BALEIA ROSSI","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178975.jpg"
-"178834","https://dadosabertos.camara.leg.br/api/v2/deputados/178834","BEBETO","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178834.jpg"
-"73701","https://dadosabertos.camara.leg.br/api/v2/deputados/73701","BENEDITA DA SILVA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/73701.jpg"
-"74535","https://dadosabertos.camara.leg.br/api/v2/deputados/74535","BENITO GAMA","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74535.jpg"
-"74040","https://dadosabertos.camara.leg.br/api/v2/deputados/74040","BENJAMIN MARANHÃO","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","PB","55","http://www.camara.leg.br/internet/deputado/bandep/74040.jpg"
-"178915","https://dadosabertos.camara.leg.br/api/v2/deputados/178915","BETINHO GOMES","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178915.jpg"
-"141335","https://dadosabertos.camara.leg.br/api/v2/deputados/141335","BETO FARO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","PA","55","http://www.camara.leg.br/internet/deputado/bandep/141335.jpg"
-"73437","https://dadosabertos.camara.leg.br/api/v2/deputados/73437","BETO MANSUR","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SP","55","http://www.camara.leg.br/internet/deputado/bandep/73437.jpg"
-"178948","https://dadosabertos.camara.leg.br/api/v2/deputados/178948","BETO ROSADO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RN","55","http://www.camara.leg.br/internet/deputado/bandep/178948.jpg"
-"178906","https://dadosabertos.camara.leg.br/api/v2/deputados/178906","BETO SALAME","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","PA","55","http://www.camara.leg.br/internet/deputado/bandep/178906.jpg"
-"141513","https://dadosabertos.camara.leg.br/api/v2/deputados/141513","BILAC PINTO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141513.jpg"
-"160538","https://dadosabertos.camara.leg.br/api/v2/deputados/160538","BOHN GASS","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RS","55","http://www.camara.leg.br/internet/deputado/bandep/160538.jpg"
-"74650","https://dadosabertos.camara.leg.br/api/v2/deputados/74650","BONIFÁCIO DE ANDRADA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74650.jpg"
-"160589","https://dadosabertos.camara.leg.br/api/v2/deputados/160589","BRUNA FURLAN","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160589.jpg"
-"178999","https://dadosabertos.camara.leg.br/api/v2/deputados/178999","BRUNNY","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178999.jpg"
-"141394","https://dadosabertos.camara.leg.br/api/v2/deputados/141394","BRUNO ARAÚJO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","PE","55","http://www.camara.leg.br/internet/deputado/bandep/141394.jpg"
-"178938","https://dadosabertos.camara.leg.br/api/v2/deputados/178938","CABO DACIOLO","PEN","https://dadosabertos.camara.leg.br/api/v2/partidos/36761","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178938.jpg"
-"178865","https://dadosabertos.camara.leg.br/api/v2/deputados/178865","CABO SABINO","AVANTE","https://dadosabertos.camara.leg.br/api/v2/partidos/36898","CE","55","http://www.camara.leg.br/internet/deputado/bandep/178865.jpg"
-"105112","https://dadosabertos.camara.leg.br/api/v2/deputados/105112","CABUÇU BORGES","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","AP","55","http://www.camara.leg.br/internet/deputado/bandep/105112.jpg"
-"93083","https://dadosabertos.camara.leg.br/api/v2/deputados/93083","CACÁ LEÃO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","BA","55","http://www.camara.leg.br/internet/deputado/bandep/93083.jpg"
-"178853","https://dadosabertos.camara.leg.br/api/v2/deputados/178853","CAETANO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178853.jpg"
-"178891","https://dadosabertos.camara.leg.br/api/v2/deputados/178891","CAIO NARCIO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178891.jpg"
-"194261","https://dadosabertos.camara.leg.br/api/v2/deputados/194261","CAJAR NARDES","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","RS","55","http://www.camara.leg.br/internet/deputado/bandep/194261.jpg"
-"178829","https://dadosabertos.camara.leg.br/api/v2/deputados/178829","CAPITÃO AUGUSTO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178829.jpg"
-"178924","https://dadosabertos.camara.leg.br/api/v2/deputados/178924","CAPITÃO FÁBIO ABREU","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","PI","55","http://www.camara.leg.br/internet/deputado/bandep/178924.jpg"
-"178958","https://dadosabertos.camara.leg.br/api/v2/deputados/178958","CARLOS ANDRADE","PHS","https://dadosabertos.camara.leg.br/api/v2/partidos/36793","RR","55","http://www.camara.leg.br/internet/deputado/bandep/178958.jpg"
-"141401","https://dadosabertos.camara.leg.br/api/v2/deputados/141401","CARLOS BEZERRA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MT","55","http://www.camara.leg.br/internet/deputado/bandep/141401.jpg"
-"178962","https://dadosabertos.camara.leg.br/api/v2/deputados/178962","CARLOS GOMES","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","RS","55","http://www.camara.leg.br/internet/deputado/bandep/178962.jpg"
-"178993","https://dadosabertos.camara.leg.br/api/v2/deputados/178993","CARLOS HENRIQUE GAGUIM","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","TO","55","http://www.camara.leg.br/internet/deputado/bandep/178993.jpg"
-"74163","https://dadosabertos.camara.leg.br/api/v2/deputados/74163","CARLOS MANATO","PSL","https://dadosabertos.camara.leg.br/api/v2/partidos/36837","ES","55","http://www.camara.leg.br/internet/deputado/bandep/74163.jpg"
-"74651","https://dadosabertos.camara.leg.br/api/v2/deputados/74651","CARLOS MELLES","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74651.jpg"
-"74262","https://dadosabertos.camara.leg.br/api/v2/deputados/74262","CARLOS SAMPAIO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/74262.jpg"
-"141398","https://dadosabertos.camara.leg.br/api/v2/deputados/141398","CARLOS ZARATTINI","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/141398.jpg"
-"164360","https://dadosabertos.camara.leg.br/api/v2/deputados/164360","CARMEN ZANOTTO","PPS","https://dadosabertos.camara.leg.br/api/v2/partidos/36813","SC","55","http://www.camara.leg.br/internet/deputado/bandep/164360.jpg"
-"178876","https://dadosabertos.camara.leg.br/api/v2/deputados/178876","CÉLIO SILVEIRA","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","GO","55","http://www.camara.leg.br/internet/deputado/bandep/178876.jpg"
-"141405","https://dadosabertos.camara.leg.br/api/v2/deputados/141405","CELSO MALDANER","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SC","55","http://www.camara.leg.br/internet/deputado/bandep/141405.jpg"
-"72912","https://dadosabertos.camara.leg.br/api/v2/deputados/72912","CELSO PANSERA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/72912.jpg"
-"73441","https://dadosabertos.camara.leg.br/api/v2/deputados/73441","CELSO RUSSOMANNO","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","SP","55","http://www.camara.leg.br/internet/deputado/bandep/73441.jpg"
-"160576","https://dadosabertos.camara.leg.br/api/v2/deputados/160576","CÉSAR HALUM","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","TO","55","http://www.camara.leg.br/internet/deputado/bandep/160576.jpg"
-"178838","https://dadosabertos.camara.leg.br/api/v2/deputados/178838","CÉSAR MESSIAS","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","AC","55","http://www.camara.leg.br/internet/deputado/bandep/178838.jpg"
-"73720","https://dadosabertos.camara.leg.br/api/v2/deputados/73720","CESAR SOUZA","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","SC","55","http://www.camara.leg.br/internet/deputado/bandep/73720.jpg"
-"74171","https://dadosabertos.camara.leg.br/api/v2/deputados/74171","CHICO ALENCAR","PSOL","https://dadosabertos.camara.leg.br/api/v2/partidos/36839","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74171.jpg"
-"141439","https://dadosabertos.camara.leg.br/api/v2/deputados/141439","CHICO D'ANGELO","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/141439.jpg"
-"141440","https://dadosabertos.camara.leg.br/api/v2/deputados/141440","CHICO LOPES","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","CE","55","http://www.camara.leg.br/internet/deputado/bandep/141440.jpg"
-"178928","https://dadosabertos.camara.leg.br/api/v2/deputados/178928","CHRISTIANE DE SOUZA YARED","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","PR","55","http://www.camara.leg.br/internet/deputado/bandep/178928.jpg"
-"178841","https://dadosabertos.camara.leg.br/api/v2/deputados/178841","CÍCERO ALMEIDA","PHS","https://dadosabertos.camara.leg.br/api/v2/partidos/36793","AL","55","http://www.camara.leg.br/internet/deputado/bandep/178841.jpg"
-"178939","https://dadosabertos.camara.leg.br/api/v2/deputados/178939","CLARISSA GAROTINHO","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178939.jpg"
-"74537","https://dadosabertos.camara.leg.br/api/v2/deputados/74537","CLAUDIO CAJADO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74537.jpg"
-"141408","https://dadosabertos.camara.leg.br/api/v2/deputados/141408","CLEBER VERDE","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","MA","55","http://www.camara.leg.br/internet/deputado/bandep/141408.jpg"
-"178848","https://dadosabertos.camara.leg.br/api/v2/deputados/178848","CONCEIÇÃO SAMPAIO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","AM","55","http://www.camara.leg.br/internet/deputado/bandep/178848.jpg"
-"178963","https://dadosabertos.camara.leg.br/api/v2/deputados/178963","COVATTI FILHO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RS","55","http://www.camara.leg.br/internet/deputado/bandep/178963.jpg"
-"93472","https://dadosabertos.camara.leg.br/api/v2/deputados/93472","CRISTIANE BRASIL","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/93472.jpg"
-"141411","https://dadosabertos.camara.leg.br/api/v2/deputados/141411","DAGOBERTO NOGUEIRA","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","MS","55","http://www.camara.leg.br/internet/deputado/bandep/141411.jpg"
-"74467","https://dadosabertos.camara.leg.br/api/v2/deputados/74467","DAMIÃO FELICIANO","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","PB","55","http://www.camara.leg.br/internet/deputado/bandep/74467.jpg"
-"178892","https://dadosabertos.camara.leg.br/api/v2/deputados/178892","DÂMINA PEREIRA","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178892.jpg"
-"74060","https://dadosabertos.camara.leg.br/api/v2/deputados/74060","DANIEL ALMEIDA","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74060.jpg"
-"178916","https://dadosabertos.camara.leg.br/api/v2/deputados/178916","DANIEL COELHO","PPS","https://dadosabertos.camara.leg.br/api/v2/partidos/36813","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178916.jpg"
-"144523","https://dadosabertos.camara.leg.br/api/v2/deputados/144523","DANIEL VILELA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","GO","55","http://www.camara.leg.br/internet/deputado/bandep/144523.jpg"
-"160528","https://dadosabertos.camara.leg.br/api/v2/deputados/160528","DANILO CABRAL","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PE","55","http://www.camara.leg.br/internet/deputado/bandep/160528.jpg"
-"62881","https://dadosabertos.camara.leg.br/api/v2/deputados/62881","DANILO FORTE","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","CE","55","http://www.camara.leg.br/internet/deputado/bandep/62881.jpg"
-"160552","https://dadosabertos.camara.leg.br/api/v2/deputados/160552","DANRLEI DE DEUS HINTERHOLZ","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","RS","55","http://www.camara.leg.br/internet/deputado/bandep/160552.jpg"
-"73891","https://dadosabertos.camara.leg.br/api/v2/deputados/73891","DARCÍSIO PERONDI","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RS","55","http://www.camara.leg.br/internet/deputado/bandep/73891.jpg"
-"141413","https://dadosabertos.camara.leg.br/api/v2/deputados/141413","DÉCIO LIMA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SC","55","http://www.camara.leg.br/internet/deputado/bandep/141413.jpg"
-"178908","https://dadosabertos.camara.leg.br/api/v2/deputados/178908","DELEGADO ÉDER MAURO","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","PA","55","http://www.camara.leg.br/internet/deputado/bandep/178908.jpg"
-"178893","https://dadosabertos.camara.leg.br/api/v2/deputados/178893","DELEGADO EDSON MOREIRA","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178893.jpg"
-"160646","https://dadosabertos.camara.leg.br/api/v2/deputados/160646","DELEGADO FRANCISCHINI","PSL","https://dadosabertos.camara.leg.br/api/v2/partidos/36837","PR","55","http://www.camara.leg.br/internet/deputado/bandep/160646.jpg"
-"164359","https://dadosabertos.camara.leg.br/api/v2/deputados/164359","DELEGADO WALDIR","PSL","https://dadosabertos.camara.leg.br/api/v2/partidos/36837","GO","55","http://www.camara.leg.br/internet/deputado/bandep/164359.jpg"
-"74172","https://dadosabertos.camara.leg.br/api/v2/deputados/74172","DELEY","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74172.jpg"
-"160588","https://dadosabertos.camara.leg.br/api/v2/deputados/160588","DIEGO ANDRADE","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160588.jpg"
-"178929","https://dadosabertos.camara.leg.br/api/v2/deputados/178929","DIEGO GARCIA","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","PR","55","http://www.camara.leg.br/internet/deputado/bandep/178929.jpg"
-"160599","https://dadosabertos.camara.leg.br/api/v2/deputados/160599","DIMAS FABIANO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160599.jpg"
-"143632","https://dadosabertos.camara.leg.br/api/v2/deputados/143632","DOMINGOS NETO","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","CE","55","http://www.camara.leg.br/internet/deputado/bandep/143632.jpg"
-"160758","https://dadosabertos.camara.leg.br/api/v2/deputados/160758","DOMINGOS SÁVIO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160758.jpg"
-"160643","https://dadosabertos.camara.leg.br/api/v2/deputados/160643","DR. JORGE SILVA","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","ES","55","http://www.camara.leg.br/internet/deputado/bandep/160643.jpg"
-"178830","https://dadosabertos.camara.leg.br/api/v2/deputados/178830","DR. SINVAL MALHEIROS","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178830.jpg"
-"178994","https://dadosabertos.camara.leg.br/api/v2/deputados/178994","DULCE MIRANDA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","TO","55","http://www.camara.leg.br/internet/deputado/bandep/178994.jpg"
-"141417","https://dadosabertos.camara.leg.br/api/v2/deputados/141417","EDIO LOPES","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RR","55","http://www.camara.leg.br/internet/deputado/bandep/141417.jpg"
-"160578","https://dadosabertos.camara.leg.br/api/v2/deputados/160578","EDMAR ARRUDA","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","PR","55","http://www.camara.leg.br/internet/deputado/bandep/160578.jpg"
-"134812","https://dadosabertos.camara.leg.br/api/v2/deputados/134812","EDMILSON RODRIGUES","PSOL","https://dadosabertos.camara.leg.br/api/v2/partidos/36839","PA","55","http://www.camara.leg.br/internet/deputado/bandep/134812.jpg"
-"74655","https://dadosabertos.camara.leg.br/api/v2/deputados/74655","EDUARDO BARBOSA","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74655.jpg"
-"92346","https://dadosabertos.camara.leg.br/api/v2/deputados/92346","EDUARDO BOLSONARO","PSL","https://dadosabertos.camara.leg.br/api/v2/partidos/36837","SP","55","http://www.camara.leg.br/internet/deputado/bandep/92346.jpg"
-"178977","https://dadosabertos.camara.leg.br/api/v2/deputados/178977","EDUARDO CURY","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178977.jpg"
-"141421","https://dadosabertos.camara.leg.br/api/v2/deputados/141421","EDUARDO DA FONTE","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","PE","55","http://www.camara.leg.br/internet/deputado/bandep/141421.jpg"
-"141422","https://dadosabertos.camara.leg.br/api/v2/deputados/141422","EFRAIM FILHO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","PB","55","http://www.camara.leg.br/internet/deputado/bandep/141422.jpg"
-"74075","https://dadosabertos.camara.leg.br/api/v2/deputados/74075","ELCIONE BARBALHO","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","PA","55","http://www.camara.leg.br/internet/deputado/bandep/74075.jpg"
-"160532","https://dadosabertos.camara.leg.br/api/v2/deputados/160532","ELI CORRÊA FILHO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160532.jpg"
-"181316","https://dadosabertos.camara.leg.br/api/v2/deputados/181316","ELIZEU DIONIZIO","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","MS","55","http://www.camara.leg.br/internet/deputado/bandep/181316.jpg"
-"178883","https://dadosabertos.camara.leg.br/api/v2/deputados/178883","ELIZIANE GAMA","PPS","https://dadosabertos.camara.leg.br/api/v2/partidos/36813","MA","55","http://www.camara.leg.br/internet/deputado/bandep/178883.jpg"
-"178854","https://dadosabertos.camara.leg.br/api/v2/deputados/178854","ELMAR NASCIMENTO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178854.jpg"
-"132504","https://dadosabertos.camara.leg.br/api/v2/deputados/132504","ENIO VERRI","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","PR","55","http://www.camara.leg.br/internet/deputado/bandep/132504.jpg"
-"160575","https://dadosabertos.camara.leg.br/api/v2/deputados/160575","ERIKA KOKAY","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","DF","55","http://www.camara.leg.br/internet/deputado/bandep/160575.jpg"
-"99654","https://dadosabertos.camara.leg.br/api/v2/deputados/99654","ERIVELTON SANTANA","PEN","https://dadosabertos.camara.leg.br/api/v2/partidos/36761","BA","55","http://www.camara.leg.br/internet/deputado/bandep/99654.jpg"
-"160640","https://dadosabertos.camara.leg.br/api/v2/deputados/160640","EROS BIONDINI","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160640.jpg"
-"160649","https://dadosabertos.camara.leg.br/api/v2/deputados/160649","ESPERIDIÃO AMIN","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","SC","55","http://www.camara.leg.br/internet/deputado/bandep/160649.jpg"
-"178871","https://dadosabertos.camara.leg.br/api/v2/deputados/178871","EVAIR VIEIRA DE MELO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","ES","55","http://www.camara.leg.br/internet/deputado/bandep/178871.jpg"
-"178828","https://dadosabertos.camara.leg.br/api/v2/deputados/178828","EVANDRO GUSSI","PV","https://dadosabertos.camara.leg.br/api/v2/partidos/36851","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178828.jpg"
-"178930","https://dadosabertos.camara.leg.br/api/v2/deputados/178930","EVANDRO ROMAN","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","PR","55","http://www.camara.leg.br/internet/deputado/bandep/178930.jpg"
-"178953","https://dadosabertos.camara.leg.br/api/v2/deputados/178953","EXPEDITO NETTO","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","RO","55","http://www.camara.leg.br/internet/deputado/bandep/178953.jpg"
-"178904","https://dadosabertos.camara.leg.br/api/v2/deputados/178904","EZEQUIEL FONSECA","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","MT","55","http://www.camara.leg.br/internet/deputado/bandep/178904.jpg"
-"178941","https://dadosabertos.camara.leg.br/api/v2/deputados/178941","EZEQUIEL TEIXEIRA","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178941.jpg"
-"141428","https://dadosabertos.camara.leg.br/api/v2/deputados/141428","FÁBIO FARIA","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","RN","55","http://www.camara.leg.br/internet/deputado/bandep/141428.jpg"
-"178905","https://dadosabertos.camara.leg.br/api/v2/deputados/178905","FABIO GARCIA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","MT","55","http://www.camara.leg.br/internet/deputado/bandep/178905.jpg"
-"178969","https://dadosabertos.camara.leg.br/api/v2/deputados/178969","FÁBIO MITIDIERI","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","SE","55","http://www.camara.leg.br/internet/deputado/bandep/178969.jpg"
-"141427","https://dadosabertos.camara.leg.br/api/v2/deputados/141427","FÁBIO RAMALHO","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141427.jpg"
-"171623","https://dadosabertos.camara.leg.br/api/v2/deputados/171623","FABIO REIS","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SE","55","http://www.camara.leg.br/internet/deputado/bandep/171623.jpg"
-"178877","https://dadosabertos.camara.leg.br/api/v2/deputados/178877","FÁBIO SOUSA","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","GO","55","http://www.camara.leg.br/internet/deputado/bandep/178877.jpg"
-"160587","https://dadosabertos.camara.leg.br/api/v2/deputados/160587","FÁBIO TRAD","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","MS","55","http://www.camara.leg.br/internet/deputado/bandep/160587.jpg"
-"66828","https://dadosabertos.camara.leg.br/api/v2/deputados/66828","FAUSTO PINATO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","SP","55","http://www.camara.leg.br/internet/deputado/bandep/66828.jpg"
-"141430","https://dadosabertos.camara.leg.br/api/v2/deputados/141430","FELIPE BORNIER","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/141430.jpg"
-"72442","https://dadosabertos.camara.leg.br/api/v2/deputados/72442","FELIPE CARRERAS","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PE","55","http://www.camara.leg.br/internet/deputado/bandep/72442.jpg"
-"141429","https://dadosabertos.camara.leg.br/api/v2/deputados/141429","FELIPE MAIA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RN","55","http://www.camara.leg.br/internet/deputado/bandep/141429.jpg"
-"160666","https://dadosabertos.camara.leg.br/api/v2/deputados/160666","FÉLIX MENDONÇA JÚNIOR","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","BA","55","http://www.camara.leg.br/internet/deputado/bandep/160666.jpg"
-"141431","https://dadosabertos.camara.leg.br/api/v2/deputados/141431","FERNANDO COELHO FILHO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","PE","55","http://www.camara.leg.br/internet/deputado/bandep/141431.jpg"
-"160676","https://dadosabertos.camara.leg.br/api/v2/deputados/160676","FERNANDO TORRES","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","BA","55","http://www.camara.leg.br/internet/deputado/bandep/160676.jpg"
-"160598","https://dadosabertos.camara.leg.br/api/v2/deputados/160598","FLÁVIA MORAIS","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","GO","55","http://www.camara.leg.br/internet/deputado/bandep/160598.jpg"
-"141434","https://dadosabertos.camara.leg.br/api/v2/deputados/141434","FLAVIANO MELO","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","AC","55","http://www.camara.leg.br/internet/deputado/bandep/141434.jpg"
-"178978","https://dadosabertos.camara.leg.br/api/v2/deputados/178978","FLAVINHO","PSC","https://dadosabertos.camara.leg.br/api/v2/partidos/36833","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178978.jpg"
-"178979","https://dadosabertos.camara.leg.br/api/v2/deputados/178979","FLORIANO PESARO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178979.jpg"
-"178907","https://dadosabertos.camara.leg.br/api/v2/deputados/178907","FRANCISCO CHAPADINHA","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","PA","55","http://www.camara.leg.br/internet/deputado/bandep/178907.jpg"
-"160677","https://dadosabertos.camara.leg.br/api/v2/deputados/160677","FRANCISCO FLORIANO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/160677.jpg"
-"186775","https://dadosabertos.camara.leg.br/api/v2/deputados/186775","FRANKLIN","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","MG","55","http://www.camara.leg.br/internet/deputado/bandep/186775.jpg"
-"129037","https://dadosabertos.camara.leg.br/api/v2/deputados/129037","GABRIEL GUIMARÃES","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MG","55","http://www.camara.leg.br/internet/deputado/bandep/129037.jpg"
-"160669","https://dadosabertos.camara.leg.br/api/v2/deputados/160669","GENECIAS NORONHA","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","CE","55","http://www.camara.leg.br/internet/deputado/bandep/160669.jpg"
-"141441","https://dadosabertos.camara.leg.br/api/v2/deputados/141441","GEORGE HILTON","PSC","https://dadosabertos.camara.leg.br/api/v2/partidos/36833","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141441.jpg"
-"178966","https://dadosabertos.camara.leg.br/api/v2/deputados/178966","GEOVANIA DE SÁ","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SC","55","http://www.camara.leg.br/internet/deputado/bandep/178966.jpg"
-"74374","https://dadosabertos.camara.leg.br/api/v2/deputados/74374","GERALDO RESENDE","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MS","55","http://www.camara.leg.br/internet/deputado/bandep/74374.jpg"
-"74383","https://dadosabertos.camara.leg.br/api/v2/deputados/74383","GIACOBO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","PR","55","http://www.camara.leg.br/internet/deputado/bandep/74383.jpg"
-"74270","https://dadosabertos.camara.leg.br/api/v2/deputados/74270","GILBERTO NASCIMENTO","PSC","https://dadosabertos.camara.leg.br/api/v2/partidos/36833","SP","55","http://www.camara.leg.br/internet/deputado/bandep/74270.jpg"
-"160673","https://dadosabertos.camara.leg.br/api/v2/deputados/160673","GIOVANI CHERINI","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RS","55","http://www.camara.leg.br/internet/deputado/bandep/160673.jpg"
-"178996","https://dadosabertos.camara.leg.br/api/v2/deputados/178996","GIOVANI FELTES","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RS","55","http://www.camara.leg.br/internet/deputado/bandep/178996.jpg"
-"178878","https://dadosabertos.camara.leg.br/api/v2/deputados/178878","GIUSEPPE VECCI","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","GO","55","http://www.camara.leg.br/internet/deputado/bandep/178878.jpg"
-"74558","https://dadosabertos.camara.leg.br/api/v2/deputados/74558","GIVALDO CARIMBÃO","AVANTE","https://dadosabertos.camara.leg.br/api/v2/partidos/36898","AL","55","http://www.camara.leg.br/internet/deputado/bandep/74558.jpg"
-"178872","https://dadosabertos.camara.leg.br/api/v2/deputados/178872","GIVALDO VIEIRA","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","ES","55","http://www.camara.leg.br/internet/deputado/bandep/178872.jpg"
-"152605","https://dadosabertos.camara.leg.br/api/v2/deputados/152605","GLAUBER BRAGA","PSOL","https://dadosabertos.camara.leg.br/api/v2/partidos/36839","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/152605.jpg"
-"74419","https://dadosabertos.camara.leg.br/api/v2/deputados/74419","GONZAGA PATRIOTA","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PE","55","http://www.camara.leg.br/internet/deputado/bandep/74419.jpg"
-"129618","https://dadosabertos.camara.leg.br/api/v2/deputados/129618","GORETE PEREIRA","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","CE","55","http://www.camara.leg.br/internet/deputado/bandep/129618.jpg"
-"178980","https://dadosabertos.camara.leg.br/api/v2/deputados/178980","GOULART","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178980.jpg"
-"160667","https://dadosabertos.camara.leg.br/api/v2/deputados/160667","GUILHERME MUSSI","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160667.jpg"
-"178964","https://dadosabertos.camara.leg.br/api/v2/deputados/178964","HEITOR SCHUCH","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","RS","55","http://www.camara.leg.br/internet/deputado/bandep/178964.jpg"
-"178873","https://dadosabertos.camara.leg.br/api/v2/deputados/178873","HELDER SALOMÃO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","ES","55","http://www.camara.leg.br/internet/deputado/bandep/178873.jpg"
-"178909","https://dadosabertos.camara.leg.br/api/v2/deputados/178909","HÉLIO LEITE","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","PA","55","http://www.camara.leg.br/internet/deputado/bandep/178909.jpg"
-"73482","https://dadosabertos.camara.leg.br/api/v2/deputados/73482","HENRIQUE FONTANA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RS","55","http://www.camara.leg.br/internet/deputado/bandep/73482.jpg"
-"97707","https://dadosabertos.camara.leg.br/api/v2/deputados/97707","HERÁCLITO FORTES","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","PI","55","http://www.camara.leg.br/internet/deputado/bandep/97707.jpg"
-"178981","https://dadosabertos.camara.leg.br/api/v2/deputados/178981","HERCULANO PASSOS","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178981.jpg"
-"73772","https://dadosabertos.camara.leg.br/api/v2/deputados/73772","HERMES PARCIANELLO","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","PR","55","http://www.camara.leg.br/internet/deputado/bandep/73772.jpg"
-"160596","https://dadosabertos.camara.leg.br/api/v2/deputados/160596","HEULER CRUVINEL","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","GO","55","http://www.camara.leg.br/internet/deputado/bandep/160596.jpg"
-"178884","https://dadosabertos.camara.leg.br/api/v2/deputados/178884","HILDO ROCHA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MA","55","http://www.camara.leg.br/internet/deputado/bandep/178884.jpg"
-"178959","https://dadosabertos.camara.leg.br/api/v2/deputados/178959","HIRAN GONÇALVES","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RR","55","http://www.camara.leg.br/internet/deputado/bandep/178959.jpg"
-"178849","https://dadosabertos.camara.leg.br/api/v2/deputados/178849","HISSA ABRAHÃO","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","AM","55","http://www.camara.leg.br/internet/deputado/bandep/178849.jpg"
-"141450","https://dadosabertos.camara.leg.br/api/v2/deputados/141450","HUGO LEAL","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/141450.jpg"
-"160674","https://dadosabertos.camara.leg.br/api/v2/deputados/160674","HUGO MOTTA","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","PB","55","http://www.camara.leg.br/internet/deputado/bandep/160674.jpg"
-"141389","https://dadosabertos.camara.leg.br/api/v2/deputados/141389","INDIO DA COSTA","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/141389.jpg"
-"67138","https://dadosabertos.camara.leg.br/api/v2/deputados/67138","IRACEMA PORTELLA","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","PI","55","http://www.camara.leg.br/internet/deputado/bandep/67138.jpg"
-"81232","https://dadosabertos.camara.leg.br/api/v2/deputados/81232","IRAJÁ ABREU","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","TO","55","http://www.camara.leg.br/internet/deputado/bandep/81232.jpg"
-"178855","https://dadosabertos.camara.leg.br/api/v2/deputados/178855","IRMÃO LAZARO","PSC","https://dadosabertos.camara.leg.br/api/v2/partidos/36833","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178855.jpg"
-"73531","https://dadosabertos.camara.leg.br/api/v2/deputados/73531","IVAN VALENTE","PSOL","https://dadosabertos.camara.leg.br/api/v2/partidos/36839","SP","55","http://www.camara.leg.br/internet/deputado/bandep/73531.jpg"
-"4931","https://dadosabertos.camara.leg.br/api/v2/deputados/4931","IZALCI LUCAS","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","DF","55","http://www.camara.leg.br/internet/deputado/bandep/4931.jpg"
-"74665","https://dadosabertos.camara.leg.br/api/v2/deputados/74665","JAIME MARTINS","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74665.jpg"
-"74847","https://dadosabertos.camara.leg.br/api/v2/deputados/74847","JAIR BOLSONARO","PSL","https://dadosabertos.camara.leg.br/api/v2/partidos/36837","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74847.jpg"
-"74848","https://dadosabertos.camara.leg.br/api/v2/deputados/74848","JANDIRA FEGHALI","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74848.jpg"
-"73926","https://dadosabertos.camara.leg.br/api/v2/deputados/73926","JANETE CAPIBERIBE","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","AP","55","http://www.camara.leg.br/internet/deputado/bandep/73926.jpg"
-"131943","https://dadosabertos.camara.leg.br/api/v2/deputados/131943","JARBAS VASCONCELOS","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","PE","55","http://www.camara.leg.br/internet/deputado/bandep/131943.jpg"
-"160672","https://dadosabertos.camara.leg.br/api/v2/deputados/160672","JEAN WYLLYS","PSOL","https://dadosabertos.camara.leg.br/api/v2/partidos/36839","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/160672.jpg"
-"74273","https://dadosabertos.camara.leg.br/api/v2/deputados/74273","JEFFERSON CAMPOS","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","SP","55","http://www.camara.leg.br/internet/deputado/bandep/74273.jpg"
-"160570","https://dadosabertos.camara.leg.br/api/v2/deputados/160570","JERÔNIMO GOERGEN","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RS","55","http://www.camara.leg.br/internet/deputado/bandep/160570.jpg"
-"178839","https://dadosabertos.camara.leg.br/api/v2/deputados/178839","JÉSSICA SALES","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","AC","55","http://www.camara.leg.br/internet/deputado/bandep/178839.jpg"
-"178842","https://dadosabertos.camara.leg.br/api/v2/deputados/178842","JHC","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","AL","55","http://www.camara.leg.br/internet/deputado/bandep/178842.jpg"
-"160531","https://dadosabertos.camara.leg.br/api/v2/deputados/160531","JHONATAN DE JESUS","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","RR","55","http://www.camara.leg.br/internet/deputado/bandep/160531.jpg"
-"141503","https://dadosabertos.camara.leg.br/api/v2/deputados/141503","JÔ MORAES","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141503.jpg"
-"160573","https://dadosabertos.camara.leg.br/api/v2/deputados/160573","JOÃO ARRUDA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","PR","55","http://www.camara.leg.br/internet/deputado/bandep/160573.jpg"
-"74366","https://dadosabertos.camara.leg.br/api/v2/deputados/74366","JOÃO CAMPOS","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","GO","55","http://www.camara.leg.br/internet/deputado/bandep/74366.jpg"
-"141458","https://dadosabertos.camara.leg.br/api/v2/deputados/141458","JOÃO CARLOS BACELAR","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","BA","55","http://www.camara.leg.br/internet/deputado/bandep/141458.jpg"
-"178970","https://dadosabertos.camara.leg.br/api/v2/deputados/178970","JOÃO DANIEL","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SE","55","http://www.camara.leg.br/internet/deputado/bandep/178970.jpg"
-"178965","https://dadosabertos.camara.leg.br/api/v2/deputados/178965","JOÃO DERLY","REDE","https://dadosabertos.camara.leg.br/api/v2/partidos/36886","RS","55","http://www.camara.leg.br/internet/deputado/bandep/178965.jpg"
-"178917","https://dadosabertos.camara.leg.br/api/v2/deputados/178917","JOÃO FERNANDO COUTINHO","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178917.jpg"
-"178856","https://dadosabertos.camara.leg.br/api/v2/deputados/178856","JOÃO GUALBERTO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178856.jpg"
-"112437","https://dadosabertos.camara.leg.br/api/v2/deputados/112437","JOÃO MARCELO SOUZA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MA","55","http://www.camara.leg.br/internet/deputado/bandep/112437.jpg"
-"178967","https://dadosabertos.camara.leg.br/api/v2/deputados/178967","JOÃO PAULO KLEINÜBING","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","SC","55","http://www.camara.leg.br/internet/deputado/bandep/178967.jpg"
-"178988","https://dadosabertos.camara.leg.br/api/v2/deputados/178988","JOÃO PAULO PAPA","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178988.jpg"
-"160571","https://dadosabertos.camara.leg.br/api/v2/deputados/160571","JOÃO RODRIGUES","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","SC","55","http://www.camara.leg.br/internet/deputado/bandep/160571.jpg"
-"178910","https://dadosabertos.camara.leg.br/api/v2/deputados/178910","JOAQUIM PASSARINHO","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","PA","55","http://www.camara.leg.br/internet/deputado/bandep/178910.jpg"
-"178971","https://dadosabertos.camara.leg.br/api/v2/deputados/178971","JONY MARCOS","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","SE","55","http://www.camara.leg.br/internet/deputado/bandep/178971.jpg"
-"160572","https://dadosabertos.camara.leg.br/api/v2/deputados/160572","JORGE CÔRTE REAL","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","PE","55","http://www.camara.leg.br/internet/deputado/bandep/160572.jpg"
-"178857","https://dadosabertos.camara.leg.br/api/v2/deputados/178857","JORGE SOLLA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178857.jpg"
-"73535","https://dadosabertos.camara.leg.br/api/v2/deputados/73535","JORGE TADEU MUDALEN","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","SP","55","http://www.camara.leg.br/internet/deputado/bandep/73535.jpg"
-"160509","https://dadosabertos.camara.leg.br/api/v2/deputados/160509","JORGINHO MELLO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","SC","55","http://www.camara.leg.br/internet/deputado/bandep/160509.jpg"
-"141464","https://dadosabertos.camara.leg.br/api/v2/deputados/141464","JOSÉ AIRTON CIRILO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","CE","55","http://www.camara.leg.br/internet/deputado/bandep/141464.jpg"
-"74553","https://dadosabertos.camara.leg.br/api/v2/deputados/74553","JOSÉ CARLOS ALELUIA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74553.jpg"
-"74140","https://dadosabertos.camara.leg.br/api/v2/deputados/74140","JOSÉ CARLOS ARAÚJO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74140.jpg"
-"141470","https://dadosabertos.camara.leg.br/api/v2/deputados/141470","JOSÉ GUIMARÃES","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","CE","55","http://www.camara.leg.br/internet/deputado/bandep/141470.jpg"
-"74275","https://dadosabertos.camara.leg.br/api/v2/deputados/74275","JOSÉ MENTOR","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/74275.jpg"
-"160619","https://dadosabertos.camara.leg.br/api/v2/deputados/160619","JOSÉ NUNES","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","BA","55","http://www.camara.leg.br/internet/deputado/bandep/160619.jpg"
-"74395","https://dadosabertos.camara.leg.br/api/v2/deputados/74395","JOSÉ OTÁVIO GERMANO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RS","55","http://www.camara.leg.br/internet/deputado/bandep/74395.jpg"
-"74079","https://dadosabertos.camara.leg.br/api/v2/deputados/74079","JOSÉ PRIANTE","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","PA","55","http://www.camara.leg.br/internet/deputado/bandep/74079.jpg"
-"73714","https://dadosabertos.camara.leg.br/api/v2/deputados/73714","JOSÉ REINALDO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MA","55","http://www.camara.leg.br/internet/deputado/bandep/73714.jpg"
-"74554","https://dadosabertos.camara.leg.br/api/v2/deputados/74554","JOSÉ ROCHA","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74554.jpg"
-"160607","https://dadosabertos.camara.leg.br/api/v2/deputados/160607","JOSE STÉDILE","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","RS","55","http://www.camara.leg.br/internet/deputado/bandep/160607.jpg"
-"114941","https://dadosabertos.camara.leg.br/api/v2/deputados/114941","JOSI NUNES","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","TO","55","http://www.camara.leg.br/internet/deputado/bandep/114941.jpg"
-"74141","https://dadosabertos.camara.leg.br/api/v2/deputados/74141","JOSIAS GOMES","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74141.jpg"
-"74351","https://dadosabertos.camara.leg.br/api/v2/deputados/74351","JOSUÉ BENGTSON","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","PA","55","http://www.camara.leg.br/internet/deputado/bandep/74351.jpg"
-"73666","https://dadosabertos.camara.leg.br/api/v2/deputados/73666","JOVAIR ARANTES","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","GO","55","http://www.camara.leg.br/internet/deputado/bandep/73666.jpg"
-"178851","https://dadosabertos.camara.leg.br/api/v2/deputados/178851","JOZI ARAÚJO","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","AP","55","http://www.camara.leg.br/internet/deputado/bandep/178851.jpg"
-"67312","https://dadosabertos.camara.leg.br/api/v2/deputados/67312","JÚLIA MARINHO","PSC","https://dadosabertos.camara.leg.br/api/v2/partidos/36833","PA","55","http://www.camara.leg.br/internet/deputado/bandep/67312.jpg"
-"141474","https://dadosabertos.camara.leg.br/api/v2/deputados/141474","JULIÃO AMIN","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","MA","55","http://www.camara.leg.br/internet/deputado/bandep/141474.jpg"
-"74317","https://dadosabertos.camara.leg.br/api/v2/deputados/74317","JÚLIO CESAR","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","PI","55","http://www.camara.leg.br/internet/deputado/bandep/74317.jpg"
-"73586","https://dadosabertos.camara.leg.br/api/v2/deputados/73586","JÚLIO DELGADO","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","MG","55","http://www.camara.leg.br/internet/deputado/bandep/73586.jpg"
-"74253","https://dadosabertos.camara.leg.br/api/v2/deputados/74253","JULIO LOPES","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74253.jpg"
-"178885","https://dadosabertos.camara.leg.br/api/v2/deputados/178885","JUNIOR MARRECA","PEN","https://dadosabertos.camara.leg.br/api/v2/partidos/36761","MA","55","http://www.camara.leg.br/internet/deputado/bandep/178885.jpg"
-"160544","https://dadosabertos.camara.leg.br/api/v2/deputados/160544","JUNJI ABE","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160544.jpg"
-"178886","https://dadosabertos.camara.leg.br/api/v2/deputados/178886","JUSCELINO FILHO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","MA","55","http://www.camara.leg.br/internet/deputado/bandep/178886.jpg"
-"74570","https://dadosabertos.camara.leg.br/api/v2/deputados/74570","JUTAHY JUNIOR","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74570.jpg"
-"178918","https://dadosabertos.camara.leg.br/api/v2/deputados/178918","KAIO MANIÇOBA","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178918.jpg"
-"160659","https://dadosabertos.camara.leg.br/api/v2/deputados/160659","KEIKO OTA","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160659.jpg"
-"151208","https://dadosabertos.camara.leg.br/api/v2/deputados/151208","LAERCIO OLIVEIRA","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","SE","55","http://www.camara.leg.br/internet/deputado/bandep/151208.jpg"
-"141478","https://dadosabertos.camara.leg.br/api/v2/deputados/141478","LAERTE BESSA","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","DF","55","http://www.camara.leg.br/internet/deputado/bandep/141478.jpg"
-"178894","https://dadosabertos.camara.leg.br/api/v2/deputados/178894","LAUDIVIO CARVALHO","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178894.jpg"
-"74856","https://dadosabertos.camara.leg.br/api/v2/deputados/74856","LAURA CARNEIRO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74856.jpg"
-"141480","https://dadosabertos.camara.leg.br/api/v2/deputados/141480","LÁZARO BOTELHO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","TO","55","http://www.camara.leg.br/internet/deputado/bandep/141480.jpg"
-"178832","https://dadosabertos.camara.leg.br/api/v2/deputados/178832","LEANDRE","PV","https://dadosabertos.camara.leg.br/api/v2/partidos/36851","PR","55","http://www.camara.leg.br/internet/deputado/bandep/178832.jpg"
-"141562","https://dadosabertos.camara.leg.br/api/v2/deputados/141562","LELO COIMBRA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","ES","55","http://www.camara.leg.br/internet/deputado/bandep/141562.jpg"
-"178825","https://dadosabertos.camara.leg.br/api/v2/deputados/178825","LEO DE BRITO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","AC","55","http://www.camara.leg.br/internet/deputado/bandep/178825.jpg"
-"74156","https://dadosabertos.camara.leg.br/api/v2/deputados/74156","LEONARDO MONTEIRO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74156.jpg"
-"74254","https://dadosabertos.camara.leg.br/api/v2/deputados/74254","LEONARDO PICCIANI","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74254.jpg"
-"141482","https://dadosabertos.camara.leg.br/api/v2/deputados/141482","LEONARDO QUINTÃO","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141482.jpg"
-"74299","https://dadosabertos.camara.leg.br/api/v2/deputados/74299","LEÔNIDAS CRISTINO","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","CE","55","http://www.camara.leg.br/internet/deputado/bandep/74299.jpg"
-"160663","https://dadosabertos.camara.leg.br/api/v2/deputados/160663","LEOPOLDO MEYER","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PR","55","http://www.camara.leg.br/internet/deputado/bandep/160663.jpg"
-"74585","https://dadosabertos.camara.leg.br/api/v2/deputados/74585","LINCOLN PORTELA","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74585.jpg"
-"141483","https://dadosabertos.camara.leg.br/api/v2/deputados/141483","LINDOMAR GARÇON","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","RO","55","http://www.camara.leg.br/internet/deputado/bandep/141483.jpg"
-"74277","https://dadosabertos.camara.leg.br/api/v2/deputados/74277","LOBBE NETO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/74277.jpg"
-"81366","https://dadosabertos.camara.leg.br/api/v2/deputados/81366","LUANA COSTA","PSC","https://dadosabertos.camara.leg.br/api/v2/partidos/36833","MA","55","http://www.camara.leg.br/internet/deputado/bandep/81366.jpg"
-"178879","https://dadosabertos.camara.leg.br/api/v2/deputados/178879","LUCAS VERGILIO","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","GO","55","http://www.camara.leg.br/internet/deputado/bandep/178879.jpg"
-"160628","https://dadosabertos.camara.leg.br/api/v2/deputados/160628","LUCIANA SANTOS","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","PE","55","http://www.camara.leg.br/internet/deputado/bandep/160628.jpg"
-"178931","https://dadosabertos.camara.leg.br/api/v2/deputados/178931","LUCIANO DUCCI","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PR","55","http://www.camara.leg.br/internet/deputado/bandep/178931.jpg"
-"178954","https://dadosabertos.camara.leg.br/api/v2/deputados/178954","LUCIO MOSQUINI","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RO","55","http://www.camara.leg.br/internet/deputado/bandep/178954.jpg"
-"141484","https://dadosabertos.camara.leg.br/api/v2/deputados/141484","LÚCIO VALE","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","PA","55","http://www.camara.leg.br/internet/deputado/bandep/141484.jpg"
-"94931","https://dadosabertos.camara.leg.br/api/v2/deputados/94931","LUCIO VIEIRA LIMA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","BA","55","http://www.camara.leg.br/internet/deputado/bandep/94931.jpg"
-"73483","https://dadosabertos.camara.leg.br/api/v2/deputados/73483","LUIS CARLOS HEINZE","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RS","55","http://www.camara.leg.br/internet/deputado/bandep/73483.jpg"
-"160510","https://dadosabertos.camara.leg.br/api/v2/deputados/160510","LUIS TIBÉ","AVANTE","https://dadosabertos.camara.leg.br/api/v2/partidos/36898","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160510.jpg"
-"73778","https://dadosabertos.camara.leg.br/api/v2/deputados/73778","LUIZ CARLOS HAULY","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","PR","55","http://www.camara.leg.br/internet/deputado/bandep/73778.jpg"
-"178802","https://dadosabertos.camara.leg.br/api/v2/deputados/178802","LUIZ CARLOS RAMOS ","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178802.jpg"
-"178955","https://dadosabertos.camara.leg.br/api/v2/deputados/178955","LUIZ CLÁUDIO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RO","55","http://www.camara.leg.br/internet/deputado/bandep/178955.jpg"
-"74041","https://dadosabertos.camara.leg.br/api/v2/deputados/74041","LUIZ COUTO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","PB","55","http://www.camara.leg.br/internet/deputado/bandep/74041.jpg"
-"141487","https://dadosabertos.camara.leg.br/api/v2/deputados/141487","LUIZ FERNANDO FARIA","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141487.jpg"
-"178982","https://dadosabertos.camara.leg.br/api/v2/deputados/178982","LUIZ LAURO FILHO","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178982.jpg"
-"162332","https://dadosabertos.camara.leg.br/api/v2/deputados/162332","LUIZ NISHIMORI","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","PR","55","http://www.camara.leg.br/internet/deputado/bandep/162332.jpg"
-"74688","https://dadosabertos.camara.leg.br/api/v2/deputados/74688","LUIZ SÉRGIO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74688.jpg"
-"74784","https://dadosabertos.camara.leg.br/api/v2/deputados/74784","LUIZA ERUNDINA","PSOL","https://dadosabertos.camara.leg.br/api/v2/partidos/36839","SP","55","http://www.camara.leg.br/internet/deputado/bandep/74784.jpg"
-"178866","https://dadosabertos.camara.leg.br/api/v2/deputados/178866","LUIZIANNE LINS","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","CE","55","http://www.camara.leg.br/internet/deputado/bandep/178866.jpg"
-"178867","https://dadosabertos.camara.leg.br/api/v2/deputados/178867","MACEDO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","CE","55","http://www.camara.leg.br/internet/deputado/bandep/178867.jpg"
-"166402","https://dadosabertos.camara.leg.br/api/v2/deputados/166402","MAGDA MOFATTO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","GO","55","http://www.camara.leg.br/internet/deputado/bandep/166402.jpg"
-"178826","https://dadosabertos.camara.leg.br/api/v2/deputados/178826","MAJOR OLIMPIO","PSL","https://dadosabertos.camara.leg.br/api/v2/partidos/36837","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178826.jpg"
-"160633","https://dadosabertos.camara.leg.br/api/v2/deputados/160633","MANDETTA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","MS","55","http://www.camara.leg.br/internet/deputado/bandep/160633.jpg"
-"160565","https://dadosabertos.camara.leg.br/api/v2/deputados/160565","MARA GABRILLI","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160565.jpg"
-"179000","https://dadosabertos.camara.leg.br/api/v2/deputados/179000","MARCELO ÁLVARO ANTÔNIO","PSL","https://dadosabertos.camara.leg.br/api/v2/partidos/36837","MG","55","http://www.camara.leg.br/internet/deputado/bandep/179000.jpg"
-"146788","https://dadosabertos.camara.leg.br/api/v2/deputados/146788","MARCELO ARO","PHS","https://dadosabertos.camara.leg.br/api/v2/partidos/36793","MG","55","http://www.camara.leg.br/internet/deputado/bandep/146788.jpg"
-"74460","https://dadosabertos.camara.leg.br/api/v2/deputados/74460","MARCELO CASTRO","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","PI","55","http://www.camara.leg.br/internet/deputado/bandep/74460.jpg"
-"195826","https://dadosabertos.camara.leg.br/api/v2/deputados/195826","MARCELO DELAROLI","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/195826.jpg"
-"76287","https://dadosabertos.camara.leg.br/api/v2/deputados/76287","MARCELO MATOS","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/76287.jpg"
-"74278","https://dadosabertos.camara.leg.br/api/v2/deputados/74278","MARCELO ORTIZ","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","SP","55","http://www.camara.leg.br/internet/deputado/bandep/74278.jpg"
-"118594","https://dadosabertos.camara.leg.br/api/v2/deputados/118594","MARCELO SQUASSONI","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","SP","55","http://www.camara.leg.br/internet/deputado/bandep/118594.jpg"
-"178983","https://dadosabertos.camara.leg.br/api/v2/deputados/178983","MARCIO ALVINO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178983.jpg"
-"179001","https://dadosabertos.camara.leg.br/api/v2/deputados/179001","MÁRCIO BIOLCHI","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RS","55","http://www.camara.leg.br/internet/deputado/bandep/179001.jpg"
-"150418","https://dadosabertos.camara.leg.br/api/v2/deputados/150418","MÁRCIO MARINHO","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","BA","55","http://www.camara.leg.br/internet/deputado/bandep/150418.jpg"
-"178942","https://dadosabertos.camara.leg.br/api/v2/deputados/178942","MARCO ANTÔNIO CABRAL","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178942.jpg"
-"133373","https://dadosabertos.camara.leg.br/api/v2/deputados/133373","MARCO MAIA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RS","55","http://www.camara.leg.br/internet/deputado/bandep/133373.jpg"
-"160536","https://dadosabertos.camara.leg.br/api/v2/deputados/160536","MARCO TEBALDI","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SC","55","http://www.camara.leg.br/internet/deputado/bandep/160536.jpg"
-"160535","https://dadosabertos.camara.leg.br/api/v2/deputados/160535","MARCON","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RS","55","http://www.camara.leg.br/internet/deputado/bandep/160535.jpg"
-"74470","https://dadosabertos.camara.leg.br/api/v2/deputados/74470","MARCONDES GADELHA","PSC","https://dadosabertos.camara.leg.br/api/v2/partidos/36833","PB","55","http://www.camara.leg.br/internet/deputado/bandep/74470.jpg"
-"178880","https://dadosabertos.camara.leg.br/api/v2/deputados/178880","MARCOS ABRÃO","PPS","https://dadosabertos.camara.leg.br/api/v2/partidos/36813","GO","55","http://www.camara.leg.br/internet/deputado/bandep/178880.jpg"
-"141500","https://dadosabertos.camara.leg.br/api/v2/deputados/141500","MARCOS MONTES","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141500.jpg"
-"178852","https://dadosabertos.camara.leg.br/api/v2/deputados/178852","MARCOS REATEGUI","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","AP","55","http://www.camara.leg.br/internet/deputado/bandep/178852.jpg"
-"167722","https://dadosabertos.camara.leg.br/api/v2/deputados/167722","MARCOS ROGÉRIO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RO","55","http://www.camara.leg.br/internet/deputado/bandep/167722.jpg"
-"178943","https://dadosabertos.camara.leg.br/api/v2/deputados/178943","MARCOS SOARES","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178943.jpg"
-"159238","https://dadosabertos.camara.leg.br/api/v2/deputados/159238","MARCUS PESTANA","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MG","55","http://www.camara.leg.br/internet/deputado/bandep/159238.jpg"
-"74235","https://dadosabertos.camara.leg.br/api/v2/deputados/74235","MARCUS VICENTE","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","ES","55","http://www.camara.leg.br/internet/deputado/bandep/74235.jpg"
-"171619","https://dadosabertos.camara.leg.br/api/v2/deputados/171619","MARGARIDA SALOMÃO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MG","55","http://www.camara.leg.br/internet/deputado/bandep/171619.jpg"
-"74398","https://dadosabertos.camara.leg.br/api/v2/deputados/74398","MARIA DO ROSÁRIO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RS","55","http://www.camara.leg.br/internet/deputado/bandep/74398.jpg"
-"64960","https://dadosabertos.camara.leg.br/api/v2/deputados/64960","MARIA HELENA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RR","55","http://www.camara.leg.br/internet/deputado/bandep/64960.jpg"
-"178956","https://dadosabertos.camara.leg.br/api/v2/deputados/178956","MARIANA CARVALHO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","RO","55","http://www.camara.leg.br/internet/deputado/bandep/178956.jpg"
-"178919","https://dadosabertos.camara.leg.br/api/v2/deputados/178919","MARINALDO ROSENDO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178919.jpg"
-"74177","https://dadosabertos.camara.leg.br/api/v2/deputados/74177","MARINHA RAUPP","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RO","55","http://www.camara.leg.br/internet/deputado/bandep/74177.jpg"
-"74158","https://dadosabertos.camara.leg.br/api/v2/deputados/74158","MÁRIO HERINGER","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74158.jpg"
-"178858","https://dadosabertos.camara.leg.br/api/v2/deputados/178858","MÁRIO NEGROMONTE JR.","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178858.jpg"
-"178843","https://dadosabertos.camara.leg.br/api/v2/deputados/178843","MARX BELTRÃO","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","AL","55","http://www.camara.leg.br/internet/deputado/bandep/178843.jpg"
-"74050","https://dadosabertos.camara.leg.br/api/v2/deputados/74050","MAURÍCIO QUINTELLA LESSA","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","AL","55","http://www.camara.leg.br/internet/deputado/bandep/74050.jpg"
-"74749","https://dadosabertos.camara.leg.br/api/v2/deputados/74749","MAURO LOPES","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74749.jpg"
-"141507","https://dadosabertos.camara.leg.br/api/v2/deputados/141507","MAURO MARIANI","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SC","55","http://www.camara.leg.br/internet/deputado/bandep/141507.jpg"
-"74428","https://dadosabertos.camara.leg.br/api/v2/deputados/74428","MENDONÇA FILHO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","PE","55","http://www.camara.leg.br/internet/deputado/bandep/74428.jpg"
-"141509","https://dadosabertos.camara.leg.br/api/v2/deputados/141509","MIGUEL CORRÊA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141509.jpg"
-"178984","https://dadosabertos.camara.leg.br/api/v2/deputados/178984","MIGUEL HADDAD","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178984.jpg"
-"178985","https://dadosabertos.camara.leg.br/api/v2/deputados/178985","MIGUEL LOMBARDI","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178985.jpg"
-"74787","https://dadosabertos.camara.leg.br/api/v2/deputados/74787","MILTON MONTI","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","SP","55","http://www.camara.leg.br/internet/deputado/bandep/74787.jpg"
-"74862","https://dadosabertos.camara.leg.br/api/v2/deputados/74862","MIRO TEIXEIRA","REDE","https://dadosabertos.camara.leg.br/api/v2/partidos/36886","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74862.jpg"
-"178895","https://dadosabertos.camara.leg.br/api/v2/deputados/178895","MISAEL VARELLA","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178895.jpg"
-"160561","https://dadosabertos.camara.leg.br/api/v2/deputados/160561","MISSIONÁRIO JOSÉ OLIMPIO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160561.jpg"
-"178997","https://dadosabertos.camara.leg.br/api/v2/deputados/178997","MOSES RODRIGUES","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","CE","55","http://www.camara.leg.br/internet/deputado/bandep/178997.jpg"
-"73553","https://dadosabertos.camara.leg.br/api/v2/deputados/73553","NELSON MARQUEZELLI","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","SP","55","http://www.camara.leg.br/internet/deputado/bandep/73553.jpg"
-"73781","https://dadosabertos.camara.leg.br/api/v2/deputados/73781","NELSON MEURER","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","PR","55","http://www.camara.leg.br/internet/deputado/bandep/73781.jpg"
-"74571","https://dadosabertos.camara.leg.br/api/v2/deputados/74571","NELSON PELLEGRINO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74571.jpg"
-"178896","https://dadosabertos.camara.leg.br/api/v2/deputados/178896","NEWTON CARDOSO JR","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178896.jpg"
-"166401","https://dadosabertos.camara.leg.br/api/v2/deputados/166401","NILSON LEITÃO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MT","55","http://www.camara.leg.br/internet/deputado/bandep/166401.jpg"
-"74352","https://dadosabertos.camara.leg.br/api/v2/deputados/74352","NILSON PINTO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","PA","55","http://www.camara.leg.br/internet/deputado/bandep/74352.jpg"
-"178986","https://dadosabertos.camara.leg.br/api/v2/deputados/178986","NILTO TATTO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178986.jpg"
-"74359","https://dadosabertos.camara.leg.br/api/v2/deputados/74359","NILTON CAPIXABA","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","RO","55","http://www.camara.leg.br/internet/deputado/bandep/74359.jpg"
-"66179","https://dadosabertos.camara.leg.br/api/v2/deputados/66179","NORMA AYUB","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","ES","55","http://www.camara.leg.br/internet/deputado/bandep/66179.jpg"
-"74159","https://dadosabertos.camara.leg.br/api/v2/deputados/74159","ODAIR CUNHA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74159.jpg"
-"178868","https://dadosabertos.camara.leg.br/api/v2/deputados/178868","ODORICO MONTEIRO","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","CE","55","http://www.camara.leg.br/internet/deputado/bandep/178868.jpg"
-"74399","https://dadosabertos.camara.leg.br/api/v2/deputados/74399","ONYX LORENZONI","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RS","55","http://www.camara.leg.br/internet/deputado/bandep/74399.jpg"
-"178987","https://dadosabertos.camara.leg.br/api/v2/deputados/178987","ORLANDO SILVA","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178987.jpg"
-"180545","https://dadosabertos.camara.leg.br/api/v2/deputados/180545","OSMAR BERTOLDI","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","PR","55","http://www.camara.leg.br/internet/deputado/bandep/180545.jpg"
-"73463","https://dadosabertos.camara.leg.br/api/v2/deputados/73463","OSMAR SERRAGLIO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","PR","55","http://www.camara.leg.br/internet/deputado/bandep/73463.jpg"
-"73692","https://dadosabertos.camara.leg.br/api/v2/deputados/73692","OSMAR TERRA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RS","55","http://www.camara.leg.br/internet/deputado/bandep/73692.jpg"
-"202063","https://dadosabertos.camara.leg.br/api/v2/deputados/202063","OSVALDO MAFRA","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","SC","55","http://www.camara.leg.br/internet/deputado/bandep/202063.jpg"
-"141515","https://dadosabertos.camara.leg.br/api/v2/deputados/141515","OTAVIO LEITE","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/141515.jpg"
-"160556","https://dadosabertos.camara.leg.br/api/v2/deputados/160556","PADRE JOÃO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160556.jpg"
-"74319","https://dadosabertos.camara.leg.br/api/v2/deputados/74319","PAES LANDIM","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","PI","55","http://www.camara.leg.br/internet/deputado/bandep/74319.jpg"
-"160642","https://dadosabertos.camara.leg.br/api/v2/deputados/160642","PASTOR EURICO","PEN","https://dadosabertos.camara.leg.br/api/v2/partidos/36761","PE","55","http://www.camara.leg.br/internet/deputado/bandep/160642.jpg"
-"74160","https://dadosabertos.camara.leg.br/api/v2/deputados/74160","PATRUS ANANIAS","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74160.jpg"
-"74095","https://dadosabertos.camara.leg.br/api/v2/deputados/74095","PAUDERNEY AVELINO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","AM","55","http://www.camara.leg.br/internet/deputado/bandep/74095.jpg"
-"171617","https://dadosabertos.camara.leg.br/api/v2/deputados/171617","PAULÃO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","AL","55","http://www.camara.leg.br/internet/deputado/bandep/171617.jpg"
-"141516","https://dadosabertos.camara.leg.br/api/v2/deputados/141516","PAULO ABI-ACKEL","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141516.jpg"
-"178860","https://dadosabertos.camara.leg.br/api/v2/deputados/178860","PAULO AZI","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178860.jpg"
-"74017","https://dadosabertos.camara.leg.br/api/v2/deputados/74017","PAULO FEIJÓ","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74017.jpg"
-"160517","https://dadosabertos.camara.leg.br/api/v2/deputados/160517","PAULO FOLETTO","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","ES","55","http://www.camara.leg.br/internet/deputado/bandep/160517.jpg"
-"160558","https://dadosabertos.camara.leg.br/api/v2/deputados/160558","PAULO FREIRE","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160558.jpg"
-"74574","https://dadosabertos.camara.leg.br/api/v2/deputados/74574","PAULO MAGALHÃES","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","BA","55","http://www.camara.leg.br/internet/deputado/bandep/74574.jpg"
-"141518","https://dadosabertos.camara.leg.br/api/v2/deputados/141518","PAULO PEREIRA DA SILVA","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","SP","55","http://www.camara.leg.br/internet/deputado/bandep/141518.jpg"
-"74400","https://dadosabertos.camara.leg.br/api/v2/deputados/74400","PAULO PIMENTA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RS","55","http://www.camara.leg.br/internet/deputado/bandep/74400.jpg"
-"141488","https://dadosabertos.camara.leg.br/api/v2/deputados/141488","PAULO TEIXEIRA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/141488.jpg"
-"74812","https://dadosabertos.camara.leg.br/api/v2/deputados/74812","PEDRO CHAVES","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","GO","55","http://www.camara.leg.br/internet/deputado/bandep/74812.jpg"
-"178912","https://dadosabertos.camara.leg.br/api/v2/deputados/178912","PEDRO CUNHA LIMA","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","PB","55","http://www.camara.leg.br/internet/deputado/bandep/178912.jpg"
-"74449","https://dadosabertos.camara.leg.br/api/v2/deputados/74449","PEDRO FERNANDES","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","MA","55","http://www.camara.leg.br/internet/deputado/bandep/74449.jpg"
-"122158","https://dadosabertos.camara.leg.br/api/v2/deputados/122158","PEDRO PAULO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/122158.jpg"
-"160604","https://dadosabertos.camara.leg.br/api/v2/deputados/160604","PEDRO UCZAI","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SC","55","http://www.camara.leg.br/internet/deputado/bandep/160604.jpg"
-"178844","https://dadosabertos.camara.leg.br/api/v2/deputados/178844","PEDRO VILELA","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","AL","55","http://www.camara.leg.br/internet/deputado/bandep/178844.jpg"
-"141445","https://dadosabertos.camara.leg.br/api/v2/deputados/141445","PEPE VARGAS","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RS","55","http://www.camara.leg.br/internet/deputado/bandep/141445.jpg"
-"73486","https://dadosabertos.camara.leg.br/api/v2/deputados/73486","POMPEO DE MATTOS","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","RS","55","http://www.camara.leg.br/internet/deputado/bandep/73486.jpg"
-"160601","https://dadosabertos.camara.leg.br/api/v2/deputados/160601","PR. MARCO FELICIANO","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160601.jpg"
-"200153","https://dadosabertos.camara.leg.br/api/v2/deputados/200153","PROF. GEDEÃO AMORIM","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","AM","55","http://www.camara.leg.br/internet/deputado/bandep/200153.jpg"
-"148134","https://dadosabertos.camara.leg.br/api/v2/deputados/148134","PROFESSOR VICTÓRIO GALLI","PSL","https://dadosabertos.camara.leg.br/api/v2/partidos/36837","MT","55","http://www.camara.leg.br/internet/deputado/bandep/148134.jpg"
-"160639","https://dadosabertos.camara.leg.br/api/v2/deputados/160639","PROFESSORA DORINHA SEABRA REZENDE","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","TO","55","http://www.camara.leg.br/internet/deputado/bandep/160639.jpg"
-"160641","https://dadosabertos.camara.leg.br/api/v2/deputados/160641","PROFESSORA MARCIVANIA","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","AP","55","http://www.camara.leg.br/internet/deputado/bandep/160641.jpg"
-"178951","https://dadosabertos.camara.leg.br/api/v2/deputados/178951","RAFAEL MOTTA","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","RN","55","http://www.camara.leg.br/internet/deputado/bandep/178951.jpg"
-"74216","https://dadosabertos.camara.leg.br/api/v2/deputados/74216","RAIMUNDO GOMES DE MATOS","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","CE","55","http://www.camara.leg.br/internet/deputado/bandep/74216.jpg"
-"178998","https://dadosabertos.camara.leg.br/api/v2/deputados/178998","RAQUEL MUNIZ","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178998.jpg"
-"74161","https://dadosabertos.camara.leg.br/api/v2/deputados/74161","REGINALDO LOPES","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74161.jpg"
-"73786","https://dadosabertos.camara.leg.br/api/v2/deputados/73786","REINHOLD STEPHANES","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","PR","55","http://www.camara.leg.br/internet/deputado/bandep/73786.jpg"
-"178925","https://dadosabertos.camara.leg.br/api/v2/deputados/178925","REJANE DIAS","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","PI","55","http://www.camara.leg.br/internet/deputado/bandep/178925.jpg"
-"178960","https://dadosabertos.camara.leg.br/api/v2/deputados/178960","REMÍDIO MONAI","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RR","55","http://www.camara.leg.br/internet/deputado/bandep/178960.jpg"
-"171620","https://dadosabertos.camara.leg.br/api/v2/deputados/171620","RENATO ANDRADE","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","MG","55","http://www.camara.leg.br/internet/deputado/bandep/171620.jpg"
-"141527","https://dadosabertos.camara.leg.br/api/v2/deputados/141527","RENATO MOLLING","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RS","55","http://www.camara.leg.br/internet/deputado/bandep/141527.jpg"
-"160654","https://dadosabertos.camara.leg.br/api/v2/deputados/160654","RENZO BRAZ","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160654.jpg"
-"73788","https://dadosabertos.camara.leg.br/api/v2/deputados/73788","RICARDO BARROS","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","PR","55","http://www.camara.leg.br/internet/deputado/bandep/73788.jpg"
-"160655","https://dadosabertos.camara.leg.br/api/v2/deputados/160655","RICARDO IZAR","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160655.jpg"
-"178920","https://dadosabertos.camara.leg.br/api/v2/deputados/178920","RICARDO TEOBALDO","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178920.jpg"
-"141472","https://dadosabertos.camara.leg.br/api/v2/deputados/141472","RICARDO TRIPOLI","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/141472.jpg"
-"152610","https://dadosabertos.camara.leg.br/api/v2/deputados/152610","ROBERTO ALVES","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","SP","55","http://www.camara.leg.br/internet/deputado/bandep/152610.jpg"
-"73674","https://dadosabertos.camara.leg.br/api/v2/deputados/73674","ROBERTO BALESTRA","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","GO","55","http://www.camara.leg.br/internet/deputado/bandep/73674.jpg"
-"141529","https://dadosabertos.camara.leg.br/api/v2/deputados/141529","ROBERTO BRITTO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","BA","55","http://www.camara.leg.br/internet/deputado/bandep/141529.jpg"
-"160653","https://dadosabertos.camara.leg.br/api/v2/deputados/160653","ROBERTO DE LUCENA","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160653.jpg"
-"178995","https://dadosabertos.camara.leg.br/api/v2/deputados/178995","ROBERTO GÓES","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","AP","55","http://www.camara.leg.br/internet/deputado/bandep/178995.jpg"
-"178944","https://dadosabertos.camara.leg.br/api/v2/deputados/178944","ROBERTO SALES","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178944.jpg"
-"178840","https://dadosabertos.camara.leg.br/api/v2/deputados/178840","ROCHA","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","AC","55","http://www.camara.leg.br/internet/deputado/bandep/178840.jpg"
-"141531","https://dadosabertos.camara.leg.br/api/v2/deputados/141531","RODRIGO DE CASTRO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MG","55","http://www.camara.leg.br/internet/deputado/bandep/141531.jpg"
-"88950","https://dadosabertos.camara.leg.br/api/v2/deputados/88950","RODRIGO GARCIA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","SP","55","http://www.camara.leg.br/internet/deputado/bandep/88950.jpg"
-"74693","https://dadosabertos.camara.leg.br/api/v2/deputados/74693","RODRIGO MAIA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/74693.jpg"
-"178926","https://dadosabertos.camara.leg.br/api/v2/deputados/178926","RODRIGO MARTINS","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PI","55","http://www.camara.leg.br/internet/deputado/bandep/178926.jpg"
-"178897","https://dadosabertos.camara.leg.br/api/v2/deputados/178897","RODRIGO PACHECO","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178897.jpg"
-"141535","https://dadosabertos.camara.leg.br/api/v2/deputados/141535","ROGÉRIO MARINHO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","RN","55","http://www.camara.leg.br/internet/deputado/bandep/141535.jpg"
-"160651","https://dadosabertos.camara.leg.br/api/v2/deputados/160651","ROGÉRIO PENINHA MENDONÇA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SC","55","http://www.camara.leg.br/internet/deputado/bandep/160651.jpg"
-"160426","https://dadosabertos.camara.leg.br/api/v2/deputados/160426","ROGÉRIO ROSSO","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","DF","55","http://www.camara.leg.br/internet/deputado/bandep/160426.jpg"
-"160515","https://dadosabertos.camara.leg.br/api/v2/deputados/160515","RONALDO BENEDET","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SC","55","http://www.camara.leg.br/internet/deputado/bandep/160515.jpg"
-"178861","https://dadosabertos.camara.leg.br/api/v2/deputados/178861","RONALDO CARLETTO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178861.jpg"
-"160637","https://dadosabertos.camara.leg.br/api/v2/deputados/160637","RONALDO FONSECA","PODE","https://dadosabertos.camara.leg.br/api/v2/partidos/36896","DF","55","http://www.camara.leg.br/internet/deputado/bandep/160637.jpg"
-"178845","https://dadosabertos.camara.leg.br/api/v2/deputados/178845","RONALDO LESSA","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","AL","55","http://www.camara.leg.br/internet/deputado/bandep/178845.jpg"
-"122466","https://dadosabertos.camara.leg.br/api/v2/deputados/122466","RONALDO MARTINS","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","CE","55","http://www.camara.leg.br/internet/deputado/bandep/122466.jpg"
-"163321","https://dadosabertos.camara.leg.br/api/v2/deputados/163321","RONALDO NOGUEIRA","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","RS","55","http://www.camara.leg.br/internet/deputado/bandep/163321.jpg"
-"178870","https://dadosabertos.camara.leg.br/api/v2/deputados/178870","RÔNEY NEMER","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","DF","55","http://www.camara.leg.br/internet/deputado/bandep/178870.jpg"
-"178945","https://dadosabertos.camara.leg.br/api/v2/deputados/178945","ROSANGELA GOMES","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178945.jpg"
-"178935","https://dadosabertos.camara.leg.br/api/v2/deputados/178935","ROSSONI","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","PR","55","http://www.camara.leg.br/internet/deputado/bandep/178935.jpg"
-"73466","https://dadosabertos.camara.leg.br/api/v2/deputados/73466","RUBENS BUENO","PPS","https://dadosabertos.camara.leg.br/api/v2/partidos/36813","PR","55","http://www.camara.leg.br/internet/deputado/bandep/73466.jpg"
-"74371","https://dadosabertos.camara.leg.br/api/v2/deputados/74371","RUBENS OTONI","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","GO","55","http://www.camara.leg.br/internet/deputado/bandep/74371.jpg"
-"178887","https://dadosabertos.camara.leg.br/api/v2/deputados/178887","RUBENS PEREIRA JÚNIOR","PCdoB","https://dadosabertos.camara.leg.br/api/v2/partidos/36779","MA","55","http://www.camara.leg.br/internet/deputado/bandep/178887.jpg"
-"160630","https://dadosabertos.camara.leg.br/api/v2/deputados/160630","SÁGUAS MORAES","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MT","55","http://www.camara.leg.br/internet/deputado/bandep/160630.jpg"
-"178990","https://dadosabertos.camara.leg.br/api/v2/deputados/178990","SAMUEL MOREIRA","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178990.jpg"
-"74372","https://dadosabertos.camara.leg.br/api/v2/deputados/74372","SANDES JÚNIOR","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","GO","55","http://www.camara.leg.br/internet/deputado/bandep/74372.jpg"
-"160621","https://dadosabertos.camara.leg.br/api/v2/deputados/160621","SANDRO ALEX","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","PR","55","http://www.camara.leg.br/internet/deputado/bandep/160621.jpg"
-"74762","https://dadosabertos.camara.leg.br/api/v2/deputados/74762","SARAIVA FELIPE","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MG","55","http://www.camara.leg.br/internet/deputado/bandep/74762.jpg"
-"74210","https://dadosabertos.camara.leg.br/api/v2/deputados/74210","SARNEY FILHO","PV","https://dadosabertos.camara.leg.br/api/v2/partidos/36851","MA","55","http://www.camara.leg.br/internet/deputado/bandep/74210.jpg"
-"178921","https://dadosabertos.camara.leg.br/api/v2/deputados/178921","SEBASTIÃO OLIVEIRA","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178921.jpg"
-"73808","https://dadosabertos.camara.leg.br/api/v2/deputados/73808","SÉRGIO BRITO","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","BA","55","http://www.camara.leg.br/internet/deputado/bandep/73808.jpg"
-"141542","https://dadosabertos.camara.leg.br/api/v2/deputados/141542","SÉRGIO MORAES","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","RS","55","http://www.camara.leg.br/internet/deputado/bandep/141542.jpg"
-"178991","https://dadosabertos.camara.leg.br/api/v2/deputados/178991","SÉRGIO REIS","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178991.jpg"
-"178933","https://dadosabertos.camara.leg.br/api/v2/deputados/178933","SERGIO SOUZA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","PR","55","http://www.camara.leg.br/internet/deputado/bandep/178933.jpg"
-"178874","https://dadosabertos.camara.leg.br/api/v2/deputados/178874","SERGIO VIDIGAL","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","ES","55","http://www.camara.leg.br/internet/deputado/bandep/178874.jpg"
-"160612","https://dadosabertos.camara.leg.br/api/v2/deputados/160612","SERGIO ZVEITER","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/160612.jpg"
-"178961","https://dadosabertos.camara.leg.br/api/v2/deputados/178961","SHÉRIDAN","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","RR","55","http://www.camara.leg.br/internet/deputado/bandep/178961.jpg"
-"160613","https://dadosabertos.camara.leg.br/api/v2/deputados/160613","SIBÁ MACHADO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","AC","55","http://www.camara.leg.br/internet/deputado/bandep/160613.jpg"
-"74356","https://dadosabertos.camara.leg.br/api/v2/deputados/74356","SILAS CÂMARA","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","AM","55","http://www.camara.leg.br/internet/deputado/bandep/74356.jpg"
-"4930","https://dadosabertos.camara.leg.br/api/v2/deputados/4930","SILVIO COSTA","AVANTE","https://dadosabertos.camara.leg.br/api/v2/partidos/36898","PE","55","http://www.camara.leg.br/internet/deputado/bandep/4930.jpg"
-"73560","https://dadosabertos.camara.leg.br/api/v2/deputados/73560","SILVIO TORRES","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/73560.jpg"
-"73424","https://dadosabertos.camara.leg.br/api/v2/deputados/73424","SIMÃO SESSIM","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/73424.jpg"
-"178911","https://dadosabertos.camara.leg.br/api/v2/deputados/178911","SIMONE MORGADO","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","PA","55","http://www.camara.leg.br/internet/deputado/bandep/178911.jpg"
-"178946","https://dadosabertos.camara.leg.br/api/v2/deputados/178946","SORAYA SANTOS","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178946.jpg"
-"178947","https://dadosabertos.camara.leg.br/api/v2/deputados/178947","SÓSTENES CAVALCANTE","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/178947.jpg"
-"92776","https://dadosabertos.camara.leg.br/api/v2/deputados/92776","STEFANO AGUIAR","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","MG","55","http://www.camara.leg.br/internet/deputado/bandep/92776.jpg"
-"177282","https://dadosabertos.camara.leg.br/api/v2/deputados/177282","SUBTENENTE GONZAGA","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","MG","55","http://www.camara.leg.br/internet/deputado/bandep/177282.jpg"
-"178922","https://dadosabertos.camara.leg.br/api/v2/deputados/178922","TADEU ALENCAR","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178922.jpg"
-"74385","https://dadosabertos.camara.leg.br/api/v2/deputados/74385","TAKAYAMA","PSC","https://dadosabertos.camara.leg.br/api/v2/partidos/36833","PR","55","http://www.camara.leg.br/internet/deputado/bandep/74385.jpg"
-"178898","https://dadosabertos.camara.leg.br/api/v2/deputados/178898","TENENTE LÚCIO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","MG","55","http://www.camara.leg.br/internet/deputado/bandep/178898.jpg"
-"178901","https://dadosabertos.camara.leg.br/api/v2/deputados/178901","TEREZA CRISTINA","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","MS","55","http://www.camara.leg.br/internet/deputado/bandep/178901.jpg"
-"160617","https://dadosabertos.camara.leg.br/api/v2/deputados/160617","THIAGO PEIXOTO","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","GO","55","http://www.camara.leg.br/internet/deputado/bandep/160617.jpg"
-"178862","https://dadosabertos.camara.leg.br/api/v2/deputados/178862","TIA ERON","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178862.jpg"
-"160976","https://dadosabertos.camara.leg.br/api/v2/deputados/160976","TIRIRICA","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160976.jpg"
-"160611","https://dadosabertos.camara.leg.br/api/v2/deputados/160611","TONINHO PINHEIRO","PP","https://dadosabertos.camara.leg.br/api/v2/partidos/36809","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160611.jpg"
-"178934","https://dadosabertos.camara.leg.br/api/v2/deputados/178934","TONINHO WANDSCHEER","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","PR","55","http://www.camara.leg.br/internet/deputado/bandep/178934.jpg"
-"178863","https://dadosabertos.camara.leg.br/api/v2/deputados/178863","ULDURICO JUNIOR","PPL","https://dadosabertos.camara.leg.br/api/v2/partidos/36762","BA","55","http://www.camara.leg.br/internet/deputado/bandep/178863.jpg"
-"195866","https://dadosabertos.camara.leg.br/api/v2/deputados/195866","VAIDON OLIVEIRA","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","CE","55","http://www.camara.leg.br/internet/deputado/bandep/195866.jpg"
-"141384","https://dadosabertos.camara.leg.br/api/v2/deputados/141384","VALADARES FILHO","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","SE","55","http://www.camara.leg.br/internet/deputado/bandep/141384.jpg"
-"74010","https://dadosabertos.camara.leg.br/api/v2/deputados/74010","VALDIR COLATTO","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","SC","55","http://www.camara.leg.br/internet/deputado/bandep/74010.jpg"
-"160610","https://dadosabertos.camara.leg.br/api/v2/deputados/160610","VALMIR ASSUNÇÃO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","BA","55","http://www.camara.leg.br/internet/deputado/bandep/160610.jpg"
-"113247","https://dadosabertos.camara.leg.br/api/v2/deputados/113247","VALMIR PRASCIDELLI","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/113247.jpg"
-"141552","https://dadosabertos.camara.leg.br/api/v2/deputados/141552","VALTENIR PEREIRA","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MT","55","http://www.camara.leg.br/internet/deputado/bandep/141552.jpg"
-"74376","https://dadosabertos.camara.leg.br/api/v2/deputados/74376","VANDER LOUBET","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MS","55","http://www.camara.leg.br/internet/deputado/bandep/74376.jpg"
-"141553","https://dadosabertos.camara.leg.br/api/v2/deputados/141553","VANDERLEI MACRIS","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/141553.jpg"
-"178913","https://dadosabertos.camara.leg.br/api/v2/deputados/178913","VENEZIANO VITAL DO RÊGO","PSB","https://dadosabertos.camara.leg.br/api/v2/partidos/36832","PB","55","http://www.camara.leg.br/internet/deputado/bandep/178913.jpg"
-"74308","https://dadosabertos.camara.leg.br/api/v2/deputados/74308","VICENTE ARRUDA","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","CE","55","http://www.camara.leg.br/internet/deputado/bandep/74308.jpg"
-"160622","https://dadosabertos.camara.leg.br/api/v2/deputados/160622","VICENTE CANDIDO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/160622.jpg"
-"74283","https://dadosabertos.camara.leg.br/api/v2/deputados/74283","VICENTINHO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","SP","55","http://www.camara.leg.br/internet/deputado/bandep/74283.jpg"
-"137070","https://dadosabertos.camara.leg.br/api/v2/deputados/137070","VICENTINHO JÚNIOR","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","TO","55","http://www.camara.leg.br/internet/deputado/bandep/137070.jpg"
-"178888","https://dadosabertos.camara.leg.br/api/v2/deputados/178888","VICTOR MENDES","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","MA","55","http://www.camara.leg.br/internet/deputado/bandep/178888.jpg"
-"141555","https://dadosabertos.camara.leg.br/api/v2/deputados/141555","VINICIUS CARVALHO","PRB","https://dadosabertos.camara.leg.br/api/v2/partidos/36815","SP","55","http://www.camara.leg.br/internet/deputado/bandep/141555.jpg"
-"160591","https://dadosabertos.camara.leg.br/api/v2/deputados/160591","VINICIUS GURGEL","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","AP","55","http://www.camara.leg.br/internet/deputado/bandep/160591.jpg"
-"178992","https://dadosabertos.camara.leg.br/api/v2/deputados/178992","VITOR LIPPI","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","SP","55","http://www.camara.leg.br/internet/deputado/bandep/178992.jpg"
-"178869","https://dadosabertos.camara.leg.br/api/v2/deputados/178869","VITOR VALIM","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","CE","55","http://www.camara.leg.br/internet/deputado/bandep/178869.jpg"
-"189593","https://dadosabertos.camara.leg.br/api/v2/deputados/189593","WADIH DAMOUS","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/189593.jpg"
-"160569","https://dadosabertos.camara.leg.br/api/v2/deputados/160569","WALDENOR PEREIRA","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","BA","55","http://www.camara.leg.br/internet/deputado/bandep/160569.jpg"
-"141558","https://dadosabertos.camara.leg.br/api/v2/deputados/141558","WALDIR MARANHÃO","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","MA","55","http://www.camara.leg.br/internet/deputado/bandep/141558.jpg"
-"160631","https://dadosabertos.camara.leg.br/api/v2/deputados/160631","WALNEY ROCHA","PEN","https://dadosabertos.camara.leg.br/api/v2/partidos/36761","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/160631.jpg"
-"178952","https://dadosabertos.camara.leg.br/api/v2/deputados/178952","WALTER ALVES","PMDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36800","RN","55","http://www.camara.leg.br/internet/deputado/bandep/178952.jpg"
-"141560","https://dadosabertos.camara.leg.br/api/v2/deputados/141560","WALTER IHOSHI","PSD","https://dadosabertos.camara.leg.br/api/v2/partidos/36834","SP","55","http://www.camara.leg.br/internet/deputado/bandep/141560.jpg"
-"160518","https://dadosabertos.camara.leg.br/api/v2/deputados/160518","WELITON PRADO","PROS","https://dadosabertos.camara.leg.br/api/v2/partidos/36763","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160518.jpg"
-"74043","https://dadosabertos.camara.leg.br/api/v2/deputados/74043","WELLINGTON ROBERTO","PR","https://dadosabertos.camara.leg.br/api/v2/partidos/36814","PB","55","http://www.camara.leg.br/internet/deputado/bandep/74043.jpg"
-"167493","https://dadosabertos.camara.leg.br/api/v2/deputados/167493","WEVERTON ROCHA","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","MA","55","http://www.camara.leg.br/internet/deputado/bandep/167493.jpg"
-"160636","https://dadosabertos.camara.leg.br/api/v2/deputados/160636","WILSON FILHO","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","PB","55","http://www.camara.leg.br/internet/deputado/bandep/160636.jpg"
-"73930","https://dadosabertos.camara.leg.br/api/v2/deputados/73930","WLADIMIR COSTA","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","PA","55","http://www.camara.leg.br/internet/deputado/bandep/73930.jpg"
-"74439","https://dadosabertos.camara.leg.br/api/v2/deputados/74439","WOLNEY QUEIROZ","PDT","https://dadosabertos.camara.leg.br/api/v2/partidos/36786","PE","55","http://www.camara.leg.br/internet/deputado/bandep/74439.jpg"
-"73992","https://dadosabertos.camara.leg.br/api/v2/deputados/73992","YEDA CRUSIUS","PSDB","https://dadosabertos.camara.leg.br/api/v2/partidos/36835","RS","55","http://www.camara.leg.br/internet/deputado/bandep/73992.jpg"
-"191945","https://dadosabertos.camara.leg.br/api/v2/deputados/191945","ZÉ AUGUSTO NALIN","DEM","https://dadosabertos.camara.leg.br/api/v2/partidos/36769","RJ","55","http://www.camara.leg.br/internet/deputado/bandep/191945.jpg"
-"178889","https://dadosabertos.camara.leg.br/api/v2/deputados/178889","ZÉ CARLOS","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MA","55","http://www.camara.leg.br/internet/deputado/bandep/178889.jpg"
-"73931","https://dadosabertos.camara.leg.br/api/v2/deputados/73931","ZÉ GERALDO","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","PA","55","http://www.camara.leg.br/internet/deputado/bandep/73931.jpg"
-"160632","https://dadosabertos.camara.leg.br/api/v2/deputados/160632","ZÉ SILVA","SD","https://dadosabertos.camara.leg.br/api/v2/partidos/36765","MG","55","http://www.camara.leg.br/internet/deputado/bandep/160632.jpg"
-"178923","https://dadosabertos.camara.leg.br/api/v2/deputados/178923","ZECA CAVALCANTI","PTB","https://dadosabertos.camara.leg.br/api/v2/partidos/36845","PE","55","http://www.camara.leg.br/internet/deputado/bandep/178923.jpg"
-"160592","https://dadosabertos.camara.leg.br/api/v2/deputados/160592","ZECA DIRCEU","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","PR","55","http://www.camara.leg.br/internet/deputado/bandep/160592.jpg"
-"178902","https://dadosabertos.camara.leg.br/api/v2/deputados/178902","ZECA DO PT","PT","https://dadosabertos.camara.leg.br/api/v2/partidos/36844","MS","55","http://www.camara.leg.br/internet/deputado/bandep/178902.jpg"
-"178949","https://dadosabertos.camara.leg.br/api/v2/deputados/178949","ZENAIDE MAIA","PHS","https://dadosabertos.camara.leg.br/api/v2/partidos/36793","RN","55","http://www.camara.leg.br/internet/deputado/bandep/178949.jpg"
+id;nome;siglaPartido;siglaUf;urlFoto
+178957;ABEL MESQUITA JR.;DEM;RR;http://www.camara.leg.br/internet/deputado/bandep/178957.jpg
+178864;ADAIL CARNEIRO;PODE;CE;http://www.camara.leg.br/internet/deputado/bandep/178864.jpg
+178914;ADALBERTO CAVALCANTI;AVANTE;PE;http://www.camara.leg.br/internet/deputado/bandep/178914.jpg
+178968;ADELSON BARRETO;PR;SE;http://www.camara.leg.br/internet/deputado/bandep/178968.jpg
+178903;ADILTON SACHETTI;PRB;MT;http://www.camara.leg.br/internet/deputado/bandep/178903.jpg
+141372;AELTON FREITAS;PR;MG;http://www.camara.leg.br/internet/deputado/bandep/141372.jpg
+160508;AFONSO FLORENCE;PT;BA;http://www.camara.leg.br/internet/deputado/bandep/160508.jpg
+136811;AFONSO HAMM;PP;RS;http://www.camara.leg.br/internet/deputado/bandep/136811.jpg
+178835;AFONSO MOTTA;PDT;RS;http://www.camara.leg.br/internet/deputado/bandep/178835.jpg
+160527;AGUINALDO RIBEIRO;PP;PB;http://www.camara.leg.br/internet/deputado/bandep/160527.jpg
+178836;ALAN RICK;DEM;AC;http://www.camara.leg.br/internet/deputado/bandep/178836.jpg
+73579;ALBERTO FRAGA;DEM;DF;http://www.camara.leg.br/internet/deputado/bandep/73579.jpg
+160559;ALCEU MOREIRA;PMDB;RS;http://www.camara.leg.br/internet/deputado/bandep/160559.jpg
+160511;ALESSANDRO MOLON;PSB;RJ;http://www.camara.leg.br/internet/deputado/bandep/160511.jpg
+73458;ALEX CANZIANI;PTB;PR;http://www.camara.leg.br/internet/deputado/bandep/73458.jpg
+178972;ALEX MANENTE;PPS;SP;http://www.camara.leg.br/internet/deputado/bandep/178972.jpg
+160545;ALEXANDRE LEITE;DEM;SP;http://www.camara.leg.br/internet/deputado/bandep/160545.jpg
+178833;ALEXANDRE SERFIOTIS;PSD;RJ;http://www.camara.leg.br/internet/deputado/bandep/178833.jpg
+178936;ALEXANDRE VALLE;PR;RJ;http://www.camara.leg.br/internet/deputado/bandep/178936.jpg
+141454;ALFREDO KAEFER;PP;PR;http://www.camara.leg.br/internet/deputado/bandep/141454.jpg
+178846;ALFREDO NASCIMENTO;PR;AM;http://www.camara.leg.br/internet/deputado/bandep/178846.jpg
+74057;ALICE PORTUGAL;PCdoB;BA;http://www.camara.leg.br/internet/deputado/bandep/74057.jpg
+178927;ALIEL MACHADO;PSB;PR;http://www.camara.leg.br/internet/deputado/bandep/178927.jpg
+178937;ALTINEU CÔRTES;PR;RJ;http://www.camara.leg.br/internet/deputado/bandep/178937.jpg
+178881;ALUISIO MENDES;PODE;MA;http://www.camara.leg.br/internet/deputado/bandep/178881.jpg
+178973;ANA PERUGINI;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/178973.jpg
+178831;ANDRÉ ABDON;PP;AP;http://www.camara.leg.br/internet/deputado/bandep/178831.jpg
+195143;ANDRÉ AMARAL;PROS;PB;http://www.camara.leg.br/internet/deputado/bandep/195143.jpg
+74471;ANDRÉ DE PAULA;PSD;PE;http://www.camara.leg.br/internet/deputado/bandep/74471.jpg
+133439;ANDRÉ FIGUEIREDO;PDT;CE;http://www.camara.leg.br/internet/deputado/bandep/133439.jpg
+178882;ANDRÉ FUFUCA;PP;MA;http://www.camara.leg.br/internet/deputado/bandep/178882.jpg
+160543;ANDRE MOURA;PSC;SE;http://www.camara.leg.br/internet/deputado/bandep/160543.jpg
+178974;ANDRES SANCHEZ;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/178974.jpg
+178837;ANGELIM;PT;AC;http://www.camara.leg.br/internet/deputado/bandep/178837.jpg
+74212;ANÍBAL GOMES;DEM;CE;http://www.camara.leg.br/internet/deputado/bandep/74212.jpg
+74213;ANTONIO BALHMANN;PDT;CE;http://www.camara.leg.br/internet/deputado/bandep/74213.jpg
+160553;ANTONIO BRITO;PSD;BA;http://www.camara.leg.br/internet/deputado/bandep/160553.jpg
+141383;ANTONIO BULHÕES;PRB;SP;http://www.camara.leg.br/internet/deputado/bandep/141383.jpg
+73584;ANTONIO CARLOS MENDES THAME;PV;SP;http://www.camara.leg.br/internet/deputado/bandep/73584.jpg
+160530;ANTONIO IMBASSAHY;PSDB;BA;http://www.camara.leg.br/internet/deputado/bandep/160530.jpg
+178950;ANTÔNIO JÁCOME;PODE;RN;http://www.camara.leg.br/internet/deputado/bandep/178950.jpg
+73433;ARLINDO CHINAGLIA;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/73433.jpg
+73434;ARNALDO FARIA DE SÁ;PP;SP;http://www.camara.leg.br/internet/deputado/bandep/73434.jpg
+141391;ARNALDO JARDIM;PPS;SP;http://www.camara.leg.br/internet/deputado/bandep/141391.jpg
+160602;ARNALDO JORDY;PPS;PA;http://www.camara.leg.br/internet/deputado/bandep/160602.jpg
+74833;AROLDE DE OLIVEIRA;PSD;RJ;http://www.camara.leg.br/internet/deputado/bandep/74833.jpg
+160541;ARTHUR LIRA;PP;AL;http://www.camara.leg.br/internet/deputado/bandep/160541.jpg
+160600;ARTHUR OLIVEIRA MAIA;DEM;BA;http://www.camara.leg.br/internet/deputado/bandep/160600.jpg
+178847;ARTHUR VIRGÍLIO BISNETO;PSDB;AM;http://www.camara.leg.br/internet/deputado/bandep/178847.jpg
+159237;ASSIS CARVALHO;PT;PI;http://www.camara.leg.br/internet/deputado/bandep/159237.jpg
+74378;ASSIS DO COUTO;PDT;PR;http://www.camara.leg.br/internet/deputado/bandep/74378.jpg
+74090;ÁTILA LINS;PP;AM;http://www.camara.leg.br/internet/deputado/bandep/74090.jpg
+74459;ÁTILA LIRA;PSB;PI;http://www.camara.leg.br/internet/deputado/bandep/74459.jpg
+73655;AUGUSTO CARVALHO;SD;DF;http://www.camara.leg.br/internet/deputado/bandep/73655.jpg
+160665;AUGUSTO COUTINHO ;SD;PE;http://www.camara.leg.br/internet/deputado/bandep/160665.jpg
+160512;AUREO;SD;RJ;http://www.camara.leg.br/internet/deputado/bandep/160512.jpg
+69871;BACELAR;PODE;BA;http://www.camara.leg.br/internet/deputado/bandep/69871.jpg
+178975;BALEIA ROSSI;PMDB;SP;http://www.camara.leg.br/internet/deputado/bandep/178975.jpg
+178834;BEBETO;PSB;BA;http://www.camara.leg.br/internet/deputado/bandep/178834.jpg
+73701;BENEDITA DA SILVA;PT;RJ;http://www.camara.leg.br/internet/deputado/bandep/73701.jpg
+74535;BENITO GAMA;PTB;BA;http://www.camara.leg.br/internet/deputado/bandep/74535.jpg
+74040;BENJAMIN MARANHÃO;PMDB;PB;http://www.camara.leg.br/internet/deputado/bandep/74040.jpg
+178915;BETINHO GOMES;PSDB;PE;http://www.camara.leg.br/internet/deputado/bandep/178915.jpg
+141335;BETO FARO;PT;PA;http://www.camara.leg.br/internet/deputado/bandep/141335.jpg
+73437;BETO MANSUR;PMDB;SP;http://www.camara.leg.br/internet/deputado/bandep/73437.jpg
+178948;BETO ROSADO;PP;RN;http://www.camara.leg.br/internet/deputado/bandep/178948.jpg
+178906;BETO SALAME;PP;PA;http://www.camara.leg.br/internet/deputado/bandep/178906.jpg
+141513;BILAC PINTO;DEM;MG;http://www.camara.leg.br/internet/deputado/bandep/141513.jpg
+160538;BOHN GASS;PT;RS;http://www.camara.leg.br/internet/deputado/bandep/160538.jpg
+74650;BONIFÁCIO DE ANDRADA;DEM;MG;http://www.camara.leg.br/internet/deputado/bandep/74650.jpg
+160589;BRUNA FURLAN;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/160589.jpg
+178999;BRUNNY;PR;MG;http://www.camara.leg.br/internet/deputado/bandep/178999.jpg
+141394;BRUNO ARAÚJO;PSDB;PE;http://www.camara.leg.br/internet/deputado/bandep/141394.jpg
+178938;CABO DACIOLO;PEN;RJ;http://www.camara.leg.br/internet/deputado/bandep/178938.jpg
+178865;CABO SABINO;AVANTE;CE;http://www.camara.leg.br/internet/deputado/bandep/178865.jpg
+105112;CABUÇU BORGES;PMDB;AP;http://www.camara.leg.br/internet/deputado/bandep/105112.jpg
+93083;CACÁ LEÃO;PP;BA;http://www.camara.leg.br/internet/deputado/bandep/93083.jpg
+178853;CAETANO;PT;BA;http://www.camara.leg.br/internet/deputado/bandep/178853.jpg
+178891;CAIO NARCIO;PSDB;MG;http://www.camara.leg.br/internet/deputado/bandep/178891.jpg
+194261;CAJAR NARDES;PODE;RS;http://www.camara.leg.br/internet/deputado/bandep/194261.jpg
+178829;CAPITÃO AUGUSTO;PR;SP;http://www.camara.leg.br/internet/deputado/bandep/178829.jpg
+178924;CAPITÃO FÁBIO ABREU;PR;PI;http://www.camara.leg.br/internet/deputado/bandep/178924.jpg
+178958;CARLOS ANDRADE;PHS;RR;http://www.camara.leg.br/internet/deputado/bandep/178958.jpg
+141401;CARLOS BEZERRA;PMDB;MT;http://www.camara.leg.br/internet/deputado/bandep/141401.jpg
+178962;CARLOS GOMES;PRB;RS;http://www.camara.leg.br/internet/deputado/bandep/178962.jpg
+178993;CARLOS HENRIQUE GAGUIM;DEM;TO;http://www.camara.leg.br/internet/deputado/bandep/178993.jpg
+74163;CARLOS MANATO;PSL;ES;http://www.camara.leg.br/internet/deputado/bandep/74163.jpg
+74651;CARLOS MELLES;DEM;MG;http://www.camara.leg.br/internet/deputado/bandep/74651.jpg
+74262;CARLOS SAMPAIO;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/74262.jpg
+141398;CARLOS ZARATTINI;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/141398.jpg
+164360;CARMEN ZANOTTO;PPS;SC;http://www.camara.leg.br/internet/deputado/bandep/164360.jpg
+178876;CÉLIO SILVEIRA;PSDB;GO;http://www.camara.leg.br/internet/deputado/bandep/178876.jpg
+141405;CELSO MALDANER;PMDB;SC;http://www.camara.leg.br/internet/deputado/bandep/141405.jpg
+72912;CELSO PANSERA;PT;RJ;http://www.camara.leg.br/internet/deputado/bandep/72912.jpg
+73441;CELSO RUSSOMANNO;PRB;SP;http://www.camara.leg.br/internet/deputado/bandep/73441.jpg
+160576;CÉSAR HALUM;PRB;TO;http://www.camara.leg.br/internet/deputado/bandep/160576.jpg
+178838;CÉSAR MESSIAS;PSB;AC;http://www.camara.leg.br/internet/deputado/bandep/178838.jpg
+73720;CESAR SOUZA;PSD;SC;http://www.camara.leg.br/internet/deputado/bandep/73720.jpg
+74171;CHICO ALENCAR;PSOL;RJ;http://www.camara.leg.br/internet/deputado/bandep/74171.jpg
+141439;CHICO D'ANGELO;PDT;RJ;http://www.camara.leg.br/internet/deputado/bandep/141439.jpg
+141440;CHICO LOPES;PCdoB;CE;http://www.camara.leg.br/internet/deputado/bandep/141440.jpg
+178928;CHRISTIANE DE SOUZA YARED;PR;PR;http://www.camara.leg.br/internet/deputado/bandep/178928.jpg
+178841;CÍCERO ALMEIDA;PHS;AL;http://www.camara.leg.br/internet/deputado/bandep/178841.jpg
+178939;CLARISSA GAROTINHO;PROS;RJ;http://www.camara.leg.br/internet/deputado/bandep/178939.jpg
+74537;CLAUDIO CAJADO;PP;BA;http://www.camara.leg.br/internet/deputado/bandep/74537.jpg
+141408;CLEBER VERDE;PRB;MA;http://www.camara.leg.br/internet/deputado/bandep/141408.jpg
+178848;CONCEIÇÃO SAMPAIO;PSDB;AM;http://www.camara.leg.br/internet/deputado/bandep/178848.jpg
+178963;COVATTI FILHO;PP;RS;http://www.camara.leg.br/internet/deputado/bandep/178963.jpg
+93472;CRISTIANE BRASIL;PTB;RJ;http://www.camara.leg.br/internet/deputado/bandep/93472.jpg
+141411;DAGOBERTO NOGUEIRA;PDT;MS;http://www.camara.leg.br/internet/deputado/bandep/141411.jpg
+74467;DAMIÃO FELICIANO;PDT;PB;http://www.camara.leg.br/internet/deputado/bandep/74467.jpg
+178892;DÂMINA PEREIRA;PODE;MG;http://www.camara.leg.br/internet/deputado/bandep/178892.jpg
+74060;DANIEL ALMEIDA;PCdoB;BA;http://www.camara.leg.br/internet/deputado/bandep/74060.jpg
+178916;DANIEL COELHO;PPS;PE;http://www.camara.leg.br/internet/deputado/bandep/178916.jpg
+144523;DANIEL VILELA;PMDB;GO;http://www.camara.leg.br/internet/deputado/bandep/144523.jpg
+160528;DANILO CABRAL;PSB;PE;http://www.camara.leg.br/internet/deputado/bandep/160528.jpg
+62881;DANILO FORTE;PSDB;CE;http://www.camara.leg.br/internet/deputado/bandep/62881.jpg
+160552;DANRLEI DE DEUS HINTERHOLZ;PSD;RS;http://www.camara.leg.br/internet/deputado/bandep/160552.jpg
+73891;DARCÍSIO PERONDI;PMDB;RS;http://www.camara.leg.br/internet/deputado/bandep/73891.jpg
+141413;DÉCIO LIMA;PT;SC;http://www.camara.leg.br/internet/deputado/bandep/141413.jpg
+178908;DELEGADO ÉDER MAURO;PSD;PA;http://www.camara.leg.br/internet/deputado/bandep/178908.jpg
+178893;DELEGADO EDSON MOREIRA;PR;MG;http://www.camara.leg.br/internet/deputado/bandep/178893.jpg
+160646;DELEGADO FRANCISCHINI;PSL;PR;http://www.camara.leg.br/internet/deputado/bandep/160646.jpg
+164359;DELEGADO WALDIR;PSL;GO;http://www.camara.leg.br/internet/deputado/bandep/164359.jpg
+74172;DELEY;PTB;RJ;http://www.camara.leg.br/internet/deputado/bandep/74172.jpg
+160588;DIEGO ANDRADE;PSD;MG;http://www.camara.leg.br/internet/deputado/bandep/160588.jpg
+178929;DIEGO GARCIA;PODE;PR;http://www.camara.leg.br/internet/deputado/bandep/178929.jpg
+160599;DIMAS FABIANO;PP;MG;http://www.camara.leg.br/internet/deputado/bandep/160599.jpg
+143632;DOMINGOS NETO;PSD;CE;http://www.camara.leg.br/internet/deputado/bandep/143632.jpg
+160758;DOMINGOS SÁVIO;PSDB;MG;http://www.camara.leg.br/internet/deputado/bandep/160758.jpg
+160643;DR. JORGE SILVA;SD;ES;http://www.camara.leg.br/internet/deputado/bandep/160643.jpg
+178830;DR. SINVAL MALHEIROS;PODE;SP;http://www.camara.leg.br/internet/deputado/bandep/178830.jpg
+178994;DULCE MIRANDA;PMDB;TO;http://www.camara.leg.br/internet/deputado/bandep/178994.jpg
+141417;EDIO LOPES;PR;RR;http://www.camara.leg.br/internet/deputado/bandep/141417.jpg
+160578;EDMAR ARRUDA;PSD;PR;http://www.camara.leg.br/internet/deputado/bandep/160578.jpg
+134812;EDMILSON RODRIGUES;PSOL;PA;http://www.camara.leg.br/internet/deputado/bandep/134812.jpg
+74655;EDUARDO BARBOSA;PSDB;MG;http://www.camara.leg.br/internet/deputado/bandep/74655.jpg
+92346;EDUARDO BOLSONARO;PSL;SP;http://www.camara.leg.br/internet/deputado/bandep/92346.jpg
+178977;EDUARDO CURY;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/178977.jpg
+141421;EDUARDO DA FONTE;PP;PE;http://www.camara.leg.br/internet/deputado/bandep/141421.jpg
+141422;EFRAIM FILHO;DEM;PB;http://www.camara.leg.br/internet/deputado/bandep/141422.jpg
+74075;ELCIONE BARBALHO;PMDB;PA;http://www.camara.leg.br/internet/deputado/bandep/74075.jpg
+160532;ELI CORRÊA FILHO;DEM;SP;http://www.camara.leg.br/internet/deputado/bandep/160532.jpg
+181316;ELIZEU DIONIZIO;PSB;MS;http://www.camara.leg.br/internet/deputado/bandep/181316.jpg
+178883;ELIZIANE GAMA;PPS;MA;http://www.camara.leg.br/internet/deputado/bandep/178883.jpg
+178854;ELMAR NASCIMENTO;DEM;BA;http://www.camara.leg.br/internet/deputado/bandep/178854.jpg
+132504;ENIO VERRI;PT;PR;http://www.camara.leg.br/internet/deputado/bandep/132504.jpg
+160575;ERIKA KOKAY;PT;DF;http://www.camara.leg.br/internet/deputado/bandep/160575.jpg
+99654;ERIVELTON SANTANA;PEN;BA;http://www.camara.leg.br/internet/deputado/bandep/99654.jpg
+160640;EROS BIONDINI;PROS;MG;http://www.camara.leg.br/internet/deputado/bandep/160640.jpg
+160649;ESPERIDIÃO AMIN;PP;SC;http://www.camara.leg.br/internet/deputado/bandep/160649.jpg
+178871;EVAIR VIEIRA DE MELO;PP;ES;http://www.camara.leg.br/internet/deputado/bandep/178871.jpg
+178828;EVANDRO GUSSI;PV;SP;http://www.camara.leg.br/internet/deputado/bandep/178828.jpg
+178930;EVANDRO ROMAN;PSD;PR;http://www.camara.leg.br/internet/deputado/bandep/178930.jpg
+178953;EXPEDITO NETTO;PSD;RO;http://www.camara.leg.br/internet/deputado/bandep/178953.jpg
+178904;EZEQUIEL FONSECA;PP;MT;http://www.camara.leg.br/internet/deputado/bandep/178904.jpg
+178941;EZEQUIEL TEIXEIRA;PODE;RJ;http://www.camara.leg.br/internet/deputado/bandep/178941.jpg
+141428;FÁBIO FARIA;PSD;RN;http://www.camara.leg.br/internet/deputado/bandep/141428.jpg
+178905;FABIO GARCIA;DEM;MT;http://www.camara.leg.br/internet/deputado/bandep/178905.jpg
+178969;FÁBIO MITIDIERI;PSD;SE;http://www.camara.leg.br/internet/deputado/bandep/178969.jpg
+141427;FÁBIO RAMALHO;PMDB;MG;http://www.camara.leg.br/internet/deputado/bandep/141427.jpg
+171623;FABIO REIS;PMDB;SE;http://www.camara.leg.br/internet/deputado/bandep/171623.jpg
+178877;FÁBIO SOUSA;PSDB;GO;http://www.camara.leg.br/internet/deputado/bandep/178877.jpg
+160587;FÁBIO TRAD;PSD;MS;http://www.camara.leg.br/internet/deputado/bandep/160587.jpg
+66828;FAUSTO PINATO;PP;SP;http://www.camara.leg.br/internet/deputado/bandep/66828.jpg
+141430;FELIPE BORNIER;PROS;RJ;http://www.camara.leg.br/internet/deputado/bandep/141430.jpg
+72442;FELIPE CARRERAS;PSB;PE;http://www.camara.leg.br/internet/deputado/bandep/72442.jpg
+141429;FELIPE MAIA;DEM;RN;http://www.camara.leg.br/internet/deputado/bandep/141429.jpg
+160666;FÉLIX MENDONÇA JÚNIOR;PDT;BA;http://www.camara.leg.br/internet/deputado/bandep/160666.jpg
+141431;FERNANDO COELHO FILHO;DEM;PE;http://www.camara.leg.br/internet/deputado/bandep/141431.jpg
+160676;FERNANDO TORRES;PSD;BA;http://www.camara.leg.br/internet/deputado/bandep/160676.jpg
+160598;FLÁVIA MORAIS;PDT;GO;http://www.camara.leg.br/internet/deputado/bandep/160598.jpg
+141434;FLAVIANO MELO;PMDB;AC;http://www.camara.leg.br/internet/deputado/bandep/141434.jpg
+178978;FLAVINHO;PSC;SP;http://www.camara.leg.br/internet/deputado/bandep/178978.jpg
+178979;FLORIANO PESARO;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/178979.jpg
+178907;FRANCISCO CHAPADINHA;PODE;PA;http://www.camara.leg.br/internet/deputado/bandep/178907.jpg
+160677;FRANCISCO FLORIANO;DEM;RJ;http://www.camara.leg.br/internet/deputado/bandep/160677.jpg
+186775;FRANKLIN;PP;MG;http://www.camara.leg.br/internet/deputado/bandep/186775.jpg
+129037;GABRIEL GUIMARÃES;PT;MG;http://www.camara.leg.br/internet/deputado/bandep/129037.jpg
+160669;GENECIAS NORONHA;SD;CE;http://www.camara.leg.br/internet/deputado/bandep/160669.jpg
+141441;GEORGE HILTON;PSC;MG;http://www.camara.leg.br/internet/deputado/bandep/141441.jpg
+178966;GEOVANIA DE SÁ;PSDB;SC;http://www.camara.leg.br/internet/deputado/bandep/178966.jpg
+74374;GERALDO RESENDE;PSDB;MS;http://www.camara.leg.br/internet/deputado/bandep/74374.jpg
+74383;GIACOBO;PR;PR;http://www.camara.leg.br/internet/deputado/bandep/74383.jpg
+74270;GILBERTO NASCIMENTO;PSC;SP;http://www.camara.leg.br/internet/deputado/bandep/74270.jpg
+160673;GIOVANI CHERINI;PR;RS;http://www.camara.leg.br/internet/deputado/bandep/160673.jpg
+178996;GIOVANI FELTES;PMDB;RS;http://www.camara.leg.br/internet/deputado/bandep/178996.jpg
+178878;GIUSEPPE VECCI;PSDB;GO;http://www.camara.leg.br/internet/deputado/bandep/178878.jpg
+74558;GIVALDO CARIMBÃO;AVANTE;AL;http://www.camara.leg.br/internet/deputado/bandep/74558.jpg
+178872;GIVALDO VIEIRA;PCdoB;ES;http://www.camara.leg.br/internet/deputado/bandep/178872.jpg
+152605;GLAUBER BRAGA;PSOL;RJ;http://www.camara.leg.br/internet/deputado/bandep/152605.jpg
+74419;GONZAGA PATRIOTA;PSB;PE;http://www.camara.leg.br/internet/deputado/bandep/74419.jpg
+129618;GORETE PEREIRA;PR;CE;http://www.camara.leg.br/internet/deputado/bandep/129618.jpg
+178980;GOULART;PSD;SP;http://www.camara.leg.br/internet/deputado/bandep/178980.jpg
+160667;GUILHERME MUSSI;PP;SP;http://www.camara.leg.br/internet/deputado/bandep/160667.jpg
+178964;HEITOR SCHUCH;PSB;RS;http://www.camara.leg.br/internet/deputado/bandep/178964.jpg
+178873;HELDER SALOMÃO;PT;ES;http://www.camara.leg.br/internet/deputado/bandep/178873.jpg
+178909;HÉLIO LEITE;DEM;PA;http://www.camara.leg.br/internet/deputado/bandep/178909.jpg
+73482;HENRIQUE FONTANA;PT;RS;http://www.camara.leg.br/internet/deputado/bandep/73482.jpg
+97707;HERÁCLITO FORTES;DEM;PI;http://www.camara.leg.br/internet/deputado/bandep/97707.jpg
+178981;HERCULANO PASSOS;PMDB;SP;http://www.camara.leg.br/internet/deputado/bandep/178981.jpg
+73772;HERMES PARCIANELLO;PMDB;PR;http://www.camara.leg.br/internet/deputado/bandep/73772.jpg
+160596;HEULER CRUVINEL;PP;GO;http://www.camara.leg.br/internet/deputado/bandep/160596.jpg
+178884;HILDO ROCHA;PMDB;MA;http://www.camara.leg.br/internet/deputado/bandep/178884.jpg
+178959;HIRAN GONÇALVES;PP;RR;http://www.camara.leg.br/internet/deputado/bandep/178959.jpg
+178849;HISSA ABRAHÃO;PDT;AM;http://www.camara.leg.br/internet/deputado/bandep/178849.jpg
+141450;HUGO LEAL;PSD;RJ;http://www.camara.leg.br/internet/deputado/bandep/141450.jpg
+160674;HUGO MOTTA;PRB;PB;http://www.camara.leg.br/internet/deputado/bandep/160674.jpg
+141389;INDIO DA COSTA;PSD;RJ;http://www.camara.leg.br/internet/deputado/bandep/141389.jpg
+67138;IRACEMA PORTELLA;PP;PI;http://www.camara.leg.br/internet/deputado/bandep/67138.jpg
+81232;IRAJÁ ABREU;PSD;TO;http://www.camara.leg.br/internet/deputado/bandep/81232.jpg
+178855;IRMÃO LAZARO;PSC;BA;http://www.camara.leg.br/internet/deputado/bandep/178855.jpg
+73531;IVAN VALENTE;PSOL;SP;http://www.camara.leg.br/internet/deputado/bandep/73531.jpg
+4931;IZALCI LUCAS;PSDB;DF;http://www.camara.leg.br/internet/deputado/bandep/4931.jpg
+74665;JAIME MARTINS;PROS;MG;http://www.camara.leg.br/internet/deputado/bandep/74665.jpg
+74847;JAIR BOLSONARO;PSL;RJ;http://www.camara.leg.br/internet/deputado/bandep/74847.jpg
+74848;JANDIRA FEGHALI;PCdoB;RJ;http://www.camara.leg.br/internet/deputado/bandep/74848.jpg
+73926;JANETE CAPIBERIBE;PSB;AP;http://www.camara.leg.br/internet/deputado/bandep/73926.jpg
+131943;JARBAS VASCONCELOS;PMDB;PE;http://www.camara.leg.br/internet/deputado/bandep/131943.jpg
+160672;JEAN WYLLYS;PSOL;RJ;http://www.camara.leg.br/internet/deputado/bandep/160672.jpg
+74273;JEFFERSON CAMPOS;PSB;SP;http://www.camara.leg.br/internet/deputado/bandep/74273.jpg
+160570;JERÔNIMO GOERGEN;PP;RS;http://www.camara.leg.br/internet/deputado/bandep/160570.jpg
+178839;JÉSSICA SALES;PMDB;AC;http://www.camara.leg.br/internet/deputado/bandep/178839.jpg
+178842;JHC;PSB;AL;http://www.camara.leg.br/internet/deputado/bandep/178842.jpg
+160531;JHONATAN DE JESUS;PRB;RR;http://www.camara.leg.br/internet/deputado/bandep/160531.jpg
+141503;JÔ MORAES;PCdoB;MG;http://www.camara.leg.br/internet/deputado/bandep/141503.jpg
+160573;JOÃO ARRUDA;PMDB;PR;http://www.camara.leg.br/internet/deputado/bandep/160573.jpg
+74366;JOÃO CAMPOS;PRB;GO;http://www.camara.leg.br/internet/deputado/bandep/74366.jpg
+141458;JOÃO CARLOS BACELAR;PR;BA;http://www.camara.leg.br/internet/deputado/bandep/141458.jpg
+178970;JOÃO DANIEL;PT;SE;http://www.camara.leg.br/internet/deputado/bandep/178970.jpg
+178965;JOÃO DERLY;REDE;RS;http://www.camara.leg.br/internet/deputado/bandep/178965.jpg
+178917;JOÃO FERNANDO COUTINHO;PROS;PE;http://www.camara.leg.br/internet/deputado/bandep/178917.jpg
+178856;JOÃO GUALBERTO;PSDB;BA;http://www.camara.leg.br/internet/deputado/bandep/178856.jpg
+112437;JOÃO MARCELO SOUZA;PMDB;MA;http://www.camara.leg.br/internet/deputado/bandep/112437.jpg
+178967;JOÃO PAULO KLEINÜBING;DEM;SC;http://www.camara.leg.br/internet/deputado/bandep/178967.jpg
+178988;JOÃO PAULO PAPA;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/178988.jpg
+160571;JOÃO RODRIGUES;PSD;SC;http://www.camara.leg.br/internet/deputado/bandep/160571.jpg
+178910;JOAQUIM PASSARINHO;PSD;PA;http://www.camara.leg.br/internet/deputado/bandep/178910.jpg
+178971;JONY MARCOS;PRB;SE;http://www.camara.leg.br/internet/deputado/bandep/178971.jpg
+160572;JORGE CÔRTE REAL;PTB;PE;http://www.camara.leg.br/internet/deputado/bandep/160572.jpg
+178857;JORGE SOLLA;PT;BA;http://www.camara.leg.br/internet/deputado/bandep/178857.jpg
+73535;JORGE TADEU MUDALEN;DEM;SP;http://www.camara.leg.br/internet/deputado/bandep/73535.jpg
+160509;JORGINHO MELLO;PR;SC;http://www.camara.leg.br/internet/deputado/bandep/160509.jpg
+141464;JOSÉ AIRTON CIRILO;PT;CE;http://www.camara.leg.br/internet/deputado/bandep/141464.jpg
+74553;JOSÉ CARLOS ALELUIA;DEM;BA;http://www.camara.leg.br/internet/deputado/bandep/74553.jpg
+74140;JOSÉ CARLOS ARAÚJO;PR;BA;http://www.camara.leg.br/internet/deputado/bandep/74140.jpg
+141470;JOSÉ GUIMARÃES;PT;CE;http://www.camara.leg.br/internet/deputado/bandep/141470.jpg
+74275;JOSÉ MENTOR;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/74275.jpg
+160619;JOSÉ NUNES;PSD;BA;http://www.camara.leg.br/internet/deputado/bandep/160619.jpg
+74395;JOSÉ OTÁVIO GERMANO;PP;RS;http://www.camara.leg.br/internet/deputado/bandep/74395.jpg
+74079;JOSÉ PRIANTE;PMDB;PA;http://www.camara.leg.br/internet/deputado/bandep/74079.jpg
+73714;JOSÉ REINALDO;PSDB;MA;http://www.camara.leg.br/internet/deputado/bandep/73714.jpg
+74554;JOSÉ ROCHA;PR;BA;http://www.camara.leg.br/internet/deputado/bandep/74554.jpg
+160607;JOSE STÉDILE;PSB;RS;http://www.camara.leg.br/internet/deputado/bandep/160607.jpg
+114941;JOSI NUNES;PROS;TO;http://www.camara.leg.br/internet/deputado/bandep/114941.jpg
+74141;JOSIAS GOMES;PT;BA;http://www.camara.leg.br/internet/deputado/bandep/74141.jpg
+74351;JOSUÉ BENGTSON;PTB;PA;http://www.camara.leg.br/internet/deputado/bandep/74351.jpg
+73666;JOVAIR ARANTES;PTB;GO;http://www.camara.leg.br/internet/deputado/bandep/73666.jpg
+178851;JOZI ARAÚJO;PODE;AP;http://www.camara.leg.br/internet/deputado/bandep/178851.jpg
+67312;JÚLIA MARINHO;PSC;PA;http://www.camara.leg.br/internet/deputado/bandep/67312.jpg
+141474;JULIÃO AMIN;PDT;MA;http://www.camara.leg.br/internet/deputado/bandep/141474.jpg
+74317;JÚLIO CESAR;PSD;PI;http://www.camara.leg.br/internet/deputado/bandep/74317.jpg
+73586;JÚLIO DELGADO;PSB;MG;http://www.camara.leg.br/internet/deputado/bandep/73586.jpg
+74253;JULIO LOPES;PP;RJ;http://www.camara.leg.br/internet/deputado/bandep/74253.jpg
+178885;JUNIOR MARRECA;PEN;MA;http://www.camara.leg.br/internet/deputado/bandep/178885.jpg
+160544;JUNJI ABE;PMDB;SP;http://www.camara.leg.br/internet/deputado/bandep/160544.jpg
+178886;JUSCELINO FILHO;DEM;MA;http://www.camara.leg.br/internet/deputado/bandep/178886.jpg
+74570;JUTAHY JUNIOR;PSDB;BA;http://www.camara.leg.br/internet/deputado/bandep/74570.jpg
+178918;KAIO MANIÇOBA;SD;PE;http://www.camara.leg.br/internet/deputado/bandep/178918.jpg
+160659;KEIKO OTA;PSB;SP;http://www.camara.leg.br/internet/deputado/bandep/160659.jpg
+151208;LAERCIO OLIVEIRA;PP;SE;http://www.camara.leg.br/internet/deputado/bandep/151208.jpg
+141478;LAERTE BESSA;PR;DF;http://www.camara.leg.br/internet/deputado/bandep/141478.jpg
+178894;LAUDIVIO CARVALHO;PODE;MG;http://www.camara.leg.br/internet/deputado/bandep/178894.jpg
+74856;LAURA CARNEIRO;DEM;RJ;http://www.camara.leg.br/internet/deputado/bandep/74856.jpg
+141480;LÁZARO BOTELHO;PP;TO;http://www.camara.leg.br/internet/deputado/bandep/141480.jpg
+178832;LEANDRE;PV;PR;http://www.camara.leg.br/internet/deputado/bandep/178832.jpg
+141562;LELO COIMBRA;PMDB;ES;http://www.camara.leg.br/internet/deputado/bandep/141562.jpg
+178825;LEO DE BRITO;PT;AC;http://www.camara.leg.br/internet/deputado/bandep/178825.jpg
+74156;LEONARDO MONTEIRO;PT;MG;http://www.camara.leg.br/internet/deputado/bandep/74156.jpg
+74254;LEONARDO PICCIANI;PMDB;RJ;http://www.camara.leg.br/internet/deputado/bandep/74254.jpg
+141482;LEONARDO QUINTÃO;PMDB;MG;http://www.camara.leg.br/internet/deputado/bandep/141482.jpg
+74299;LEÔNIDAS CRISTINO;PDT;CE;http://www.camara.leg.br/internet/deputado/bandep/74299.jpg
+160663;LEOPOLDO MEYER;PSB;PR;http://www.camara.leg.br/internet/deputado/bandep/160663.jpg
+74585;LINCOLN PORTELA;PR;MG;http://www.camara.leg.br/internet/deputado/bandep/74585.jpg
+141483;LINDOMAR GARÇON;PRB;RO;http://www.camara.leg.br/internet/deputado/bandep/141483.jpg
+74277;LOBBE NETO;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/74277.jpg
+81366;LUANA COSTA;PSC;MA;http://www.camara.leg.br/internet/deputado/bandep/81366.jpg
+178879;LUCAS VERGILIO;SD;GO;http://www.camara.leg.br/internet/deputado/bandep/178879.jpg
+160628;LUCIANA SANTOS;PCdoB;PE;http://www.camara.leg.br/internet/deputado/bandep/160628.jpg
+178931;LUCIANO DUCCI;PSB;PR;http://www.camara.leg.br/internet/deputado/bandep/178931.jpg
+178954;LUCIO MOSQUINI;PMDB;RO;http://www.camara.leg.br/internet/deputado/bandep/178954.jpg
+141484;LÚCIO VALE;PR;PA;http://www.camara.leg.br/internet/deputado/bandep/141484.jpg
+94931;LUCIO VIEIRA LIMA;PMDB;BA;http://www.camara.leg.br/internet/deputado/bandep/94931.jpg
+73483;LUIS CARLOS HEINZE;PP;RS;http://www.camara.leg.br/internet/deputado/bandep/73483.jpg
+160510;LUIS TIBÉ;AVANTE;MG;http://www.camara.leg.br/internet/deputado/bandep/160510.jpg
+73778;LUIZ CARLOS HAULY;PSDB;PR;http://www.camara.leg.br/internet/deputado/bandep/73778.jpg
+178802;LUIZ CARLOS RAMOS ;PR;RJ;http://www.camara.leg.br/internet/deputado/bandep/178802.jpg
+178955;LUIZ CLÁUDIO;PR;RO;http://www.camara.leg.br/internet/deputado/bandep/178955.jpg
+74041;LUIZ COUTO;PT;PB;http://www.camara.leg.br/internet/deputado/bandep/74041.jpg
+141487;LUIZ FERNANDO FARIA;PP;MG;http://www.camara.leg.br/internet/deputado/bandep/141487.jpg
+178982;LUIZ LAURO FILHO;PSB;SP;http://www.camara.leg.br/internet/deputado/bandep/178982.jpg
+162332;LUIZ NISHIMORI;PR;PR;http://www.camara.leg.br/internet/deputado/bandep/162332.jpg
+74688;LUIZ SÉRGIO;PT;RJ;http://www.camara.leg.br/internet/deputado/bandep/74688.jpg
+74784;LUIZA ERUNDINA;PSOL;SP;http://www.camara.leg.br/internet/deputado/bandep/74784.jpg
+178866;LUIZIANNE LINS;PT;CE;http://www.camara.leg.br/internet/deputado/bandep/178866.jpg
+178867;MACEDO;PP;CE;http://www.camara.leg.br/internet/deputado/bandep/178867.jpg
+166402;MAGDA MOFATTO;PR;GO;http://www.camara.leg.br/internet/deputado/bandep/166402.jpg
+178826;MAJOR OLIMPIO;PSL;SP;http://www.camara.leg.br/internet/deputado/bandep/178826.jpg
+160633;MANDETTA;DEM;MS;http://www.camara.leg.br/internet/deputado/bandep/160633.jpg
+160565;MARA GABRILLI;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/160565.jpg
+179000;MARCELO ÁLVARO ANTÔNIO;PSL;MG;http://www.camara.leg.br/internet/deputado/bandep/179000.jpg
+146788;MARCELO ARO;PHS;MG;http://www.camara.leg.br/internet/deputado/bandep/146788.jpg
+74460;MARCELO CASTRO;PMDB;PI;http://www.camara.leg.br/internet/deputado/bandep/74460.jpg
+195826;MARCELO DELAROLI;PR;RJ;http://www.camara.leg.br/internet/deputado/bandep/195826.jpg
+76287;MARCELO MATOS;PSD;RJ;http://www.camara.leg.br/internet/deputado/bandep/76287.jpg
+74278;MARCELO ORTIZ;PODE;SP;http://www.camara.leg.br/internet/deputado/bandep/74278.jpg
+118594;MARCELO SQUASSONI;PRB;SP;http://www.camara.leg.br/internet/deputado/bandep/118594.jpg
+178983;MARCIO ALVINO;PR;SP;http://www.camara.leg.br/internet/deputado/bandep/178983.jpg
+179001;MÁRCIO BIOLCHI;PMDB;RS;http://www.camara.leg.br/internet/deputado/bandep/179001.jpg
+150418;MÁRCIO MARINHO;PRB;BA;http://www.camara.leg.br/internet/deputado/bandep/150418.jpg
+178942;MARCO ANTÔNIO CABRAL;PMDB;RJ;http://www.camara.leg.br/internet/deputado/bandep/178942.jpg
+133373;MARCO MAIA;PT;RS;http://www.camara.leg.br/internet/deputado/bandep/133373.jpg
+160536;MARCO TEBALDI;PSDB;SC;http://www.camara.leg.br/internet/deputado/bandep/160536.jpg
+160535;MARCON;PT;RS;http://www.camara.leg.br/internet/deputado/bandep/160535.jpg
+74470;MARCONDES GADELHA;PSC;PB;http://www.camara.leg.br/internet/deputado/bandep/74470.jpg
+178880;MARCOS ABRÃO;PPS;GO;http://www.camara.leg.br/internet/deputado/bandep/178880.jpg
+141500;MARCOS MONTES;PSD;MG;http://www.camara.leg.br/internet/deputado/bandep/141500.jpg
+178852;MARCOS REATEGUI;PSD;AP;http://www.camara.leg.br/internet/deputado/bandep/178852.jpg
+167722;MARCOS ROGÉRIO;DEM;RO;http://www.camara.leg.br/internet/deputado/bandep/167722.jpg
+178943;MARCOS SOARES;DEM;RJ;http://www.camara.leg.br/internet/deputado/bandep/178943.jpg
+159238;MARCUS PESTANA;PSDB;MG;http://www.camara.leg.br/internet/deputado/bandep/159238.jpg
+74235;MARCUS VICENTE;PP;ES;http://www.camara.leg.br/internet/deputado/bandep/74235.jpg
+171619;MARGARIDA SALOMÃO;PT;MG;http://www.camara.leg.br/internet/deputado/bandep/171619.jpg
+74398;MARIA DO ROSÁRIO;PT;RS;http://www.camara.leg.br/internet/deputado/bandep/74398.jpg
+64960;MARIA HELENA;PMDB;RR;http://www.camara.leg.br/internet/deputado/bandep/64960.jpg
+178956;MARIANA CARVALHO;PSDB;RO;http://www.camara.leg.br/internet/deputado/bandep/178956.jpg
+178919;MARINALDO ROSENDO;PP;PE;http://www.camara.leg.br/internet/deputado/bandep/178919.jpg
+74177;MARINHA RAUPP;PMDB;RO;http://www.camara.leg.br/internet/deputado/bandep/74177.jpg
+74158;MÁRIO HERINGER;PDT;MG;http://www.camara.leg.br/internet/deputado/bandep/74158.jpg
+178858;MÁRIO NEGROMONTE JR.;PP;BA;http://www.camara.leg.br/internet/deputado/bandep/178858.jpg
+178843;MARX BELTRÃO;PSD;AL;http://www.camara.leg.br/internet/deputado/bandep/178843.jpg
+74050;MAURÍCIO QUINTELLA LESSA;PR;AL;http://www.camara.leg.br/internet/deputado/bandep/74050.jpg
+74749;MAURO LOPES;PMDB;MG;http://www.camara.leg.br/internet/deputado/bandep/74749.jpg
+141507;MAURO MARIANI;PMDB;SC;http://www.camara.leg.br/internet/deputado/bandep/141507.jpg
+74428;MENDONÇA FILHO;DEM;PE;http://www.camara.leg.br/internet/deputado/bandep/74428.jpg
+141509;MIGUEL CORRÊA;PT;MG;http://www.camara.leg.br/internet/deputado/bandep/141509.jpg
+178984;MIGUEL HADDAD;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/178984.jpg
+178985;MIGUEL LOMBARDI;PR;SP;http://www.camara.leg.br/internet/deputado/bandep/178985.jpg
+74787;MILTON MONTI;PR;SP;http://www.camara.leg.br/internet/deputado/bandep/74787.jpg
+74862;MIRO TEIXEIRA;REDE;RJ;http://www.camara.leg.br/internet/deputado/bandep/74862.jpg
+178895;MISAEL VARELLA;PSD;MG;http://www.camara.leg.br/internet/deputado/bandep/178895.jpg
+160561;MISSIONÁRIO JOSÉ OLIMPIO;DEM;SP;http://www.camara.leg.br/internet/deputado/bandep/160561.jpg
+178997;MOSES RODRIGUES;PMDB;CE;http://www.camara.leg.br/internet/deputado/bandep/178997.jpg
+73553;NELSON MARQUEZELLI;PTB;SP;http://www.camara.leg.br/internet/deputado/bandep/73553.jpg
+73781;NELSON MEURER;PP;PR;http://www.camara.leg.br/internet/deputado/bandep/73781.jpg
+74571;NELSON PELLEGRINO;PT;BA;http://www.camara.leg.br/internet/deputado/bandep/74571.jpg
+178896;NEWTON CARDOSO JR;PMDB;MG;http://www.camara.leg.br/internet/deputado/bandep/178896.jpg
+166401;NILSON LEITÃO;PSDB;MT;http://www.camara.leg.br/internet/deputado/bandep/166401.jpg
+74352;NILSON PINTO;PSDB;PA;http://www.camara.leg.br/internet/deputado/bandep/74352.jpg
+178986;NILTO TATTO;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/178986.jpg
+74359;NILTON CAPIXABA;PTB;RO;http://www.camara.leg.br/internet/deputado/bandep/74359.jpg
+66179;NORMA AYUB;DEM;ES;http://www.camara.leg.br/internet/deputado/bandep/66179.jpg
+74159;ODAIR CUNHA;PT;MG;http://www.camara.leg.br/internet/deputado/bandep/74159.jpg
+178868;ODORICO MONTEIRO;PSB;CE;http://www.camara.leg.br/internet/deputado/bandep/178868.jpg
+74399;ONYX LORENZONI;DEM;RS;http://www.camara.leg.br/internet/deputado/bandep/74399.jpg
+178987;ORLANDO SILVA;PCdoB;SP;http://www.camara.leg.br/internet/deputado/bandep/178987.jpg
+180545;OSMAR BERTOLDI;DEM;PR;http://www.camara.leg.br/internet/deputado/bandep/180545.jpg
+73463;OSMAR SERRAGLIO;PP;PR;http://www.camara.leg.br/internet/deputado/bandep/73463.jpg
+73692;OSMAR TERRA;PMDB;RS;http://www.camara.leg.br/internet/deputado/bandep/73692.jpg
+202063;OSVALDO MAFRA;SD;SC;http://www.camara.leg.br/internet/deputado/bandep/202063.jpg
+141515;OTAVIO LEITE;PSDB;RJ;http://www.camara.leg.br/internet/deputado/bandep/141515.jpg
+160556;PADRE JOÃO;PT;MG;http://www.camara.leg.br/internet/deputado/bandep/160556.jpg
+74319;PAES LANDIM;PTB;PI;http://www.camara.leg.br/internet/deputado/bandep/74319.jpg
+160642;PASTOR EURICO;PEN;PE;http://www.camara.leg.br/internet/deputado/bandep/160642.jpg
+74160;PATRUS ANANIAS;PT;MG;http://www.camara.leg.br/internet/deputado/bandep/74160.jpg
+74095;PAUDERNEY AVELINO;DEM;AM;http://www.camara.leg.br/internet/deputado/bandep/74095.jpg
+171617;PAULÃO;PT;AL;http://www.camara.leg.br/internet/deputado/bandep/171617.jpg
+141516;PAULO ABI-ACKEL;PSDB;MG;http://www.camara.leg.br/internet/deputado/bandep/141516.jpg
+178860;PAULO AZI;DEM;BA;http://www.camara.leg.br/internet/deputado/bandep/178860.jpg
+74017;PAULO FEIJÓ;PR;RJ;http://www.camara.leg.br/internet/deputado/bandep/74017.jpg
+160517;PAULO FOLETTO;PSB;ES;http://www.camara.leg.br/internet/deputado/bandep/160517.jpg
+160558;PAULO FREIRE;PR;SP;http://www.camara.leg.br/internet/deputado/bandep/160558.jpg
+74574;PAULO MAGALHÃES;PSD;BA;http://www.camara.leg.br/internet/deputado/bandep/74574.jpg
+141518;PAULO PEREIRA DA SILVA;SD;SP;http://www.camara.leg.br/internet/deputado/bandep/141518.jpg
+74400;PAULO PIMENTA;PT;RS;http://www.camara.leg.br/internet/deputado/bandep/74400.jpg
+141488;PAULO TEIXEIRA;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/141488.jpg
+74812;PEDRO CHAVES;PMDB;GO;http://www.camara.leg.br/internet/deputado/bandep/74812.jpg
+178912;PEDRO CUNHA LIMA;PSDB;PB;http://www.camara.leg.br/internet/deputado/bandep/178912.jpg
+74449;PEDRO FERNANDES;PTB;MA;http://www.camara.leg.br/internet/deputado/bandep/74449.jpg
+122158;PEDRO PAULO;DEM;RJ;http://www.camara.leg.br/internet/deputado/bandep/122158.jpg
+160604;PEDRO UCZAI;PT;SC;http://www.camara.leg.br/internet/deputado/bandep/160604.jpg
+178844;PEDRO VILELA;PSDB;AL;http://www.camara.leg.br/internet/deputado/bandep/178844.jpg
+141445;PEPE VARGAS;PT;RS;http://www.camara.leg.br/internet/deputado/bandep/141445.jpg
+73486;POMPEO DE MATTOS;PDT;RS;http://www.camara.leg.br/internet/deputado/bandep/73486.jpg
+160601;PR. MARCO FELICIANO;PODE;SP;http://www.camara.leg.br/internet/deputado/bandep/160601.jpg
+200153;PROF. GEDEÃO AMORIM;PMDB;AM;http://www.camara.leg.br/internet/deputado/bandep/200153.jpg
+148134;PROFESSOR VICTÓRIO GALLI;PSL;MT;http://www.camara.leg.br/internet/deputado/bandep/148134.jpg
+160639;PROFESSORA DORINHA SEABRA REZENDE;DEM;TO;http://www.camara.leg.br/internet/deputado/bandep/160639.jpg
+160641;PROFESSORA MARCIVANIA;PCdoB;AP;http://www.camara.leg.br/internet/deputado/bandep/160641.jpg
+178951;RAFAEL MOTTA;PSB;RN;http://www.camara.leg.br/internet/deputado/bandep/178951.jpg
+74216;RAIMUNDO GOMES DE MATOS;PSDB;CE;http://www.camara.leg.br/internet/deputado/bandep/74216.jpg
+178998;RAQUEL MUNIZ;PSD;MG;http://www.camara.leg.br/internet/deputado/bandep/178998.jpg
+74161;REGINALDO LOPES;PT;MG;http://www.camara.leg.br/internet/deputado/bandep/74161.jpg
+73786;REINHOLD STEPHANES;PSD;PR;http://www.camara.leg.br/internet/deputado/bandep/73786.jpg
+178925;REJANE DIAS;PT;PI;http://www.camara.leg.br/internet/deputado/bandep/178925.jpg
+178960;REMÍDIO MONAI;PR;RR;http://www.camara.leg.br/internet/deputado/bandep/178960.jpg
+171620;RENATO ANDRADE;PP;MG;http://www.camara.leg.br/internet/deputado/bandep/171620.jpg
+141527;RENATO MOLLING;PP;RS;http://www.camara.leg.br/internet/deputado/bandep/141527.jpg
+160654;RENZO BRAZ;PP;MG;http://www.camara.leg.br/internet/deputado/bandep/160654.jpg
+73788;RICARDO BARROS;PP;PR;http://www.camara.leg.br/internet/deputado/bandep/73788.jpg
+160655;RICARDO IZAR;PP;SP;http://www.camara.leg.br/internet/deputado/bandep/160655.jpg
+178920;RICARDO TEOBALDO;PODE;PE;http://www.camara.leg.br/internet/deputado/bandep/178920.jpg
+141472;RICARDO TRIPOLI;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/141472.jpg
+152610;ROBERTO ALVES;PRB;SP;http://www.camara.leg.br/internet/deputado/bandep/152610.jpg
+73674;ROBERTO BALESTRA;PP;GO;http://www.camara.leg.br/internet/deputado/bandep/73674.jpg
+141529;ROBERTO BRITTO;PP;BA;http://www.camara.leg.br/internet/deputado/bandep/141529.jpg
+160653;ROBERTO DE LUCENA;PODE;SP;http://www.camara.leg.br/internet/deputado/bandep/160653.jpg
+178995;ROBERTO GÓES;PDT;AP;http://www.camara.leg.br/internet/deputado/bandep/178995.jpg
+178944;ROBERTO SALES;DEM;RJ;http://www.camara.leg.br/internet/deputado/bandep/178944.jpg
+178840;ROCHA;PSDB;AC;http://www.camara.leg.br/internet/deputado/bandep/178840.jpg
+141531;RODRIGO DE CASTRO;PSDB;MG;http://www.camara.leg.br/internet/deputado/bandep/141531.jpg
+88950;RODRIGO GARCIA;DEM;SP;http://www.camara.leg.br/internet/deputado/bandep/88950.jpg
+74693;RODRIGO MAIA;DEM;RJ;http://www.camara.leg.br/internet/deputado/bandep/74693.jpg
+178926;RODRIGO MARTINS;PSB;PI;http://www.camara.leg.br/internet/deputado/bandep/178926.jpg
+178897;RODRIGO PACHECO;DEM;MG;http://www.camara.leg.br/internet/deputado/bandep/178897.jpg
+141535;ROGÉRIO MARINHO;PSDB;RN;http://www.camara.leg.br/internet/deputado/bandep/141535.jpg
+160651;ROGÉRIO PENINHA MENDONÇA;PMDB;SC;http://www.camara.leg.br/internet/deputado/bandep/160651.jpg
+160426;ROGÉRIO ROSSO;PSD;DF;http://www.camara.leg.br/internet/deputado/bandep/160426.jpg
+160515;RONALDO BENEDET;PMDB;SC;http://www.camara.leg.br/internet/deputado/bandep/160515.jpg
+178861;RONALDO CARLETTO;PP;BA;http://www.camara.leg.br/internet/deputado/bandep/178861.jpg
+160637;RONALDO FONSECA;PODE;DF;http://www.camara.leg.br/internet/deputado/bandep/160637.jpg
+178845;RONALDO LESSA;PDT;AL;http://www.camara.leg.br/internet/deputado/bandep/178845.jpg
+122466;RONALDO MARTINS;PRB;CE;http://www.camara.leg.br/internet/deputado/bandep/122466.jpg
+163321;RONALDO NOGUEIRA;PTB;RS;http://www.camara.leg.br/internet/deputado/bandep/163321.jpg
+178870;RÔNEY NEMER;PP;DF;http://www.camara.leg.br/internet/deputado/bandep/178870.jpg
+178945;ROSANGELA GOMES;PRB;RJ;http://www.camara.leg.br/internet/deputado/bandep/178945.jpg
+178935;ROSSONI;PSDB;PR;http://www.camara.leg.br/internet/deputado/bandep/178935.jpg
+73466;RUBENS BUENO;PPS;PR;http://www.camara.leg.br/internet/deputado/bandep/73466.jpg
+74371;RUBENS OTONI;PT;GO;http://www.camara.leg.br/internet/deputado/bandep/74371.jpg
+178887;RUBENS PEREIRA JÚNIOR;PCdoB;MA;http://www.camara.leg.br/internet/deputado/bandep/178887.jpg
+160630;SÁGUAS MORAES;PT;MT;http://www.camara.leg.br/internet/deputado/bandep/160630.jpg
+178990;SAMUEL MOREIRA;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/178990.jpg
+74372;SANDES JÚNIOR;PP;GO;http://www.camara.leg.br/internet/deputado/bandep/74372.jpg
+160621;SANDRO ALEX;PSD;PR;http://www.camara.leg.br/internet/deputado/bandep/160621.jpg
+74762;SARAIVA FELIPE;PMDB;MG;http://www.camara.leg.br/internet/deputado/bandep/74762.jpg
+74210;SARNEY FILHO;PV;MA;http://www.camara.leg.br/internet/deputado/bandep/74210.jpg
+178921;SEBASTIÃO OLIVEIRA;PR;PE;http://www.camara.leg.br/internet/deputado/bandep/178921.jpg
+73808;SÉRGIO BRITO;PSD;BA;http://www.camara.leg.br/internet/deputado/bandep/73808.jpg
+141542;SÉRGIO MORAES;PTB;RS;http://www.camara.leg.br/internet/deputado/bandep/141542.jpg
+178991;SÉRGIO REIS;PRB;SP;http://www.camara.leg.br/internet/deputado/bandep/178991.jpg
+178933;SERGIO SOUZA;PMDB;PR;http://www.camara.leg.br/internet/deputado/bandep/178933.jpg
+178874;SERGIO VIDIGAL;PDT;ES;http://www.camara.leg.br/internet/deputado/bandep/178874.jpg
+160612;SERGIO ZVEITER;DEM;RJ;http://www.camara.leg.br/internet/deputado/bandep/160612.jpg
+178961;SHÉRIDAN;PSDB;RR;http://www.camara.leg.br/internet/deputado/bandep/178961.jpg
+160613;SIBÁ MACHADO;PT;AC;http://www.camara.leg.br/internet/deputado/bandep/160613.jpg
+74356;SILAS CÂMARA;PRB;AM;http://www.camara.leg.br/internet/deputado/bandep/74356.jpg
+4930;SILVIO COSTA;AVANTE;PE;http://www.camara.leg.br/internet/deputado/bandep/4930.jpg
+73560;SILVIO TORRES;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/73560.jpg
+73424;SIMÃO SESSIM;PP;RJ;http://www.camara.leg.br/internet/deputado/bandep/73424.jpg
+178911;SIMONE MORGADO;PMDB;PA;http://www.camara.leg.br/internet/deputado/bandep/178911.jpg
+178946;SORAYA SANTOS;PR;RJ;http://www.camara.leg.br/internet/deputado/bandep/178946.jpg
+178947;SÓSTENES CAVALCANTE;DEM;RJ;http://www.camara.leg.br/internet/deputado/bandep/178947.jpg
+92776;STEFANO AGUIAR;PSD;MG;http://www.camara.leg.br/internet/deputado/bandep/92776.jpg
+177282;SUBTENENTE GONZAGA;PDT;MG;http://www.camara.leg.br/internet/deputado/bandep/177282.jpg
+178922;TADEU ALENCAR;PSB;PE;http://www.camara.leg.br/internet/deputado/bandep/178922.jpg
+74385;TAKAYAMA;PSC;PR;http://www.camara.leg.br/internet/deputado/bandep/74385.jpg
+178898;TENENTE LÚCIO;PR;MG;http://www.camara.leg.br/internet/deputado/bandep/178898.jpg
+178901;TEREZA CRISTINA;DEM;MS;http://www.camara.leg.br/internet/deputado/bandep/178901.jpg
+160617;THIAGO PEIXOTO;PSD;GO;http://www.camara.leg.br/internet/deputado/bandep/160617.jpg
+178862;TIA ERON;PRB;BA;http://www.camara.leg.br/internet/deputado/bandep/178862.jpg
+160976;TIRIRICA;PR;SP;http://www.camara.leg.br/internet/deputado/bandep/160976.jpg
+160611;TONINHO PINHEIRO;PP;MG;http://www.camara.leg.br/internet/deputado/bandep/160611.jpg
+178934;TONINHO WANDSCHEER;PROS;PR;http://www.camara.leg.br/internet/deputado/bandep/178934.jpg
+178863;ULDURICO JUNIOR;PPL;BA;http://www.camara.leg.br/internet/deputado/bandep/178863.jpg
+195866;VAIDON OLIVEIRA;PROS;CE;http://www.camara.leg.br/internet/deputado/bandep/195866.jpg
+141384;VALADARES FILHO;PSB;SE;http://www.camara.leg.br/internet/deputado/bandep/141384.jpg
+74010;VALDIR COLATTO;PMDB;SC;http://www.camara.leg.br/internet/deputado/bandep/74010.jpg
+160610;VALMIR ASSUNÇÃO;PT;BA;http://www.camara.leg.br/internet/deputado/bandep/160610.jpg
+113247;VALMIR PRASCIDELLI;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/113247.jpg
+141552;VALTENIR PEREIRA;PMDB;MT;http://www.camara.leg.br/internet/deputado/bandep/141552.jpg
+74376;VANDER LOUBET;PT;MS;http://www.camara.leg.br/internet/deputado/bandep/74376.jpg
+141553;VANDERLEI MACRIS;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/141553.jpg
+178913;VENEZIANO VITAL DO RÊGO;PSB;PB;http://www.camara.leg.br/internet/deputado/bandep/178913.jpg
+74308;VICENTE ARRUDA;PR;CE;http://www.camara.leg.br/internet/deputado/bandep/74308.jpg
+160622;VICENTE CANDIDO;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/160622.jpg
+74283;VICENTINHO;PT;SP;http://www.camara.leg.br/internet/deputado/bandep/74283.jpg
+137070;VICENTINHO JÚNIOR;PR;TO;http://www.camara.leg.br/internet/deputado/bandep/137070.jpg
+178888;VICTOR MENDES;PMDB;MA;http://www.camara.leg.br/internet/deputado/bandep/178888.jpg
+141555;VINICIUS CARVALHO;PRB;SP;http://www.camara.leg.br/internet/deputado/bandep/141555.jpg
+160591;VINICIUS GURGEL;PR;AP;http://www.camara.leg.br/internet/deputado/bandep/160591.jpg
+178992;VITOR LIPPI;PSDB;SP;http://www.camara.leg.br/internet/deputado/bandep/178992.jpg
+178869;VITOR VALIM;PROS;CE;http://www.camara.leg.br/internet/deputado/bandep/178869.jpg
+189593;WADIH DAMOUS;PT;RJ;http://www.camara.leg.br/internet/deputado/bandep/189593.jpg
+160569;WALDENOR PEREIRA;PT;BA;http://www.camara.leg.br/internet/deputado/bandep/160569.jpg
+141558;WALDIR MARANHÃO;PSDB;MA;http://www.camara.leg.br/internet/deputado/bandep/141558.jpg
+160631;WALNEY ROCHA;PEN;RJ;http://www.camara.leg.br/internet/deputado/bandep/160631.jpg
+178952;WALTER ALVES;PMDB;RN;http://www.camara.leg.br/internet/deputado/bandep/178952.jpg
+141560;WALTER IHOSHI;PSD;SP;http://www.camara.leg.br/internet/deputado/bandep/141560.jpg
+160518;WELITON PRADO;PROS;MG;http://www.camara.leg.br/internet/deputado/bandep/160518.jpg
+74043;WELLINGTON ROBERTO;PR;PB;http://www.camara.leg.br/internet/deputado/bandep/74043.jpg
+167493;WEVERTON ROCHA;PDT;MA;http://www.camara.leg.br/internet/deputado/bandep/167493.jpg
+160636;WILSON FILHO;PTB;PB;http://www.camara.leg.br/internet/deputado/bandep/160636.jpg
+73930;WLADIMIR COSTA;SD;PA;http://www.camara.leg.br/internet/deputado/bandep/73930.jpg
+74439;WOLNEY QUEIROZ;PDT;PE;http://www.camara.leg.br/internet/deputado/bandep/74439.jpg
+73992;YEDA CRUSIUS;PSDB;RS;http://www.camara.leg.br/internet/deputado/bandep/73992.jpg
+191945;ZÉ AUGUSTO NALIN;DEM;RJ;http://www.camara.leg.br/internet/deputado/bandep/191945.jpg
+178889;ZÉ CARLOS;PT;MA;http://www.camara.leg.br/internet/deputado/bandep/178889.jpg
+73931;ZÉ GERALDO;PT;PA;http://www.camara.leg.br/internet/deputado/bandep/73931.jpg
+160632;ZÉ SILVA;SD;MG;http://www.camara.leg.br/internet/deputado/bandep/160632.jpg
+178923;ZECA CAVALCANTI;PTB;PE;http://www.camara.leg.br/internet/deputado/bandep/178923.jpg
+160592;ZECA DIRCEU;PT;PR;http://www.camara.leg.br/internet/deputado/bandep/160592.jpg
+178902;ZECA DO PT;PT;MS;http://www.camara.leg.br/internet/deputado/bandep/178902.jpg
+178949;ZENAIDE MAIA;PHS;RN;http://www.camara.leg.br/internet/deputado/bandep/178949.jpg
