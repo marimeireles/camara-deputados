@@ -1,7 +1,7 @@
 import requests
 import json
 
-r = requests.get('https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome')
+r = requests.get('https://dadosabertos.camara.leg.br/api/v2/deputados?siglaSexo=M&ordem=ASC&ordenarPor=nome')
 dadosAbertos = r.json()
 links = dadosAbertos['links']
 links = {item['rel']: item['href'] for item in links}
@@ -20,5 +20,5 @@ while True:
   if 'next' not in links:
     break
 
-with open('deputadoID.json', 'w') as out:
+with open('deputadoIDM.json', 'w') as out:
   out.write(json.dumps(dados))
