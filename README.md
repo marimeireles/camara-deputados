@@ -9,7 +9,7 @@ Uma vez na pasta de origem do MySQL `mysql -u root -p admin` e digite sua senha.
 
 ### Linux
 
-Por meio do terminal inicie seu serviço de banco de dados usando system ctl `systemctl start nomedobancodedados`.
+Por meio do terminal inicie seu serviço de banco de dados usando system ctl `systemctl start nomeDoProgramaDeBancoDeDados`.
 `mysql -p` sua senha de administrador do banco de dados.
 
 ### MySQL
@@ -19,8 +19,8 @@ Uma vez dentro do MySQL os comandos são os mesmos.
 Tenha certeza que garantiu todos os privilégios para o usuário que está usando esse banco:
 
 ```
-GRANT ALL PRIVILEGES ON nomedobancodedados TO 'nomedeusuario'@'localhost' 
-    IDENTIFIED BY 'senhadousuario' 
+GRANT ALL PRIVILEGES ON nomeDoBancoDeDados TO 'nomeDoUsuario'@'localhost' 
+    IDENTIFIED BY 'senhaDoUsuario' 
     WITH GRANT OPTION;
 FLUSH PRIVILEGES;
 ```
