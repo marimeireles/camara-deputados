@@ -14,7 +14,13 @@ Por meio do terminal inicie seu serviço de banco de dados usando system ctl `sy
 
 ### MySQL
 
-Uma vez dentro do MySQL os comandos são os mesmos.
+Uma vez dentro do MySQL os comandos são os mesmos, independente do sistema operacional.
+
+Selecione o seu banco:
+
+```
+use nomeDoBancoDeDados;
+```
 
 Tenha certeza que garantiu todos os privilégios para o usuário que está usando esse banco:
 
