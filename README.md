@@ -1,4 +1,4 @@
-# Banco de dados do projeto Câmara Deputados.
+# Banco de dados do projeto Câmara Deputados
 
 ## Adicionando a tabela despesas
 
@@ -18,17 +18,17 @@ Uma vez dentro do MySQL os comandos são os mesmos.
 
 Tenha certeza que garantiu todos os privilégios para o usuário que está usando esse banco:
 
-`
+```
 GRANT ALL PRIVILEGES ON nomedobancodedados TO 'nomedeusuario'@'localhost' 
     IDENTIFIED BY 'senhadousuario' 
     WITH GRANT OPTION;
 FLUSH PRIVILEGES;
-`
+```
 
 Você precisa copiar o arquivo despesas2017.csv para algum lugar que o usuário que estiver usando o banco de dados tenha permissão de escrita/leitura.
 
-`
+```
 LOAD DATA LOCAL INFILE 'endereçoOndeOcsvSeEncontra'
 INTO TABLE nomeDoBancoDeDados.nomeDaTabela
 FIELDS TERMINATED BY ';';
-`
+```
