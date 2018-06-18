@@ -21,6 +21,21 @@ Selecione o seu banco:
 ```
 use nomeDoBancoDeDados;
 ```
+Exemplo de criação de tabelas:
+```
+DROP TABLE IF EXISTS `despesas2017`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `despesas2017` (
+  `idDeputado` bigint(20) DEFAULT NULL,
+  `CategoriaDespesas` varchar(50) DEFAULT NULL,
+  `NomeDespesas` varchar(50) DEFAULT NULL,
+  `idDespesas` bigint(20) NOT NULL,
+  `DataEmissao` datetime DEFAULT NULL,
+  `vlrDocumento` bigint(20) DEFAULT NULL,
+  `vlrLiquido` bigint(20) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+```
 
 Tenha certeza que garantiu todos os privilégios para o usuário que está usando esse banco:
 
