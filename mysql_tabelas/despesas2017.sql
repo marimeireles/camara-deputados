@@ -52,3 +52,7 @@ UNLOCK TABLES;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 -- Dump completed on 2018-06-15 11:24:48
+
+LOAD DATA LOCAL INFILE 'home/mariana/Development/câmaraDeputados/dados_csv/despesas.csv'
+INTO TABLE camara_deputados.despesas2017
+FIELDS TERMINATED BY ';';
